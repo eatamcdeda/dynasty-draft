@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "brady",
+    "name": "Tom Brady",
+    "position": "QB",
+    "team": "NE",
+    "careerStart": 2000,
+    "careerEnd": 2022,
+    "standardRank": 8,
+    "pprRank": 23
+  },
+  {
+    "id": "montana",
+    "name": "Joe Montana",
+    "position": "QB",
+    "team": "SF",
+    "careerStart": 1979,
+    "careerEnd": 1994,
+    "standardRank": 11,
+    "pprRank": 25
+  },
+  {
+    "id": "pmanning",
+    "name": "Peyton Manning",
+    "position": "QB",
+    "team": "IND",
+    "careerStart": 1998,
+    "careerEnd": 2015,
+    "standardRank": 10,
+    "pprRank": 24
+  },
+  {
+    "id": "mahomes",
+    "name": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 31,
+    "pprRank": 45
+  },
+  {
+    "id": "unitas",
+    "name": "Johnny Unitas",
+    "position": "QB",
+    "team": "BAL",
+    "careerStart": 1956,
+    "careerEnd": 1973,
+    "standardRank": 25,
+    "pprRank": 40
+  },
+  {
+    "id": "marino",
+    "name": "Dan Marino",
+    "position": "QB",
+    "team": "MIA",
+    "careerStart": 1983,
+    "careerEnd": 1999,
+    "standardRank": 14,
+    "pprRank": 27
+  },
+  {
+    "id": "elway",
+    "name": "John Elway",
+    "position": "QB",
+    "team": "DEN",
+    "careerStart": 1983,
+    "careerEnd": 1998,
+    "standardRank": 24,
+    "pprRank": 39
+  },
+  {
+    "id": "favre",
+    "name": "Brett Favre",
+    "position": "QB",
+    "team": "GB",
+    "careerStart": 1991,
+    "careerEnd": 2010,
+    "standardRank": 19,
+    "pprRank": 29
+  },
+  {
+    "id": "rodgers",
+    "name": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB",
+    "careerStart": 2005,
+    "careerEnd": 2026,
+    "standardRank": 20,
+    "pprRank": 30
+  },
+  {
+    "id": "brees",
+    "name": "Drew Brees",
+    "position": "QB",
+    "team": "NO",
+    "careerStart": 2001,
+    "careerEnd": 2020,
+    "standardRank": 21,
+    "pprRank": 31
+  },
+  {
+    "id": "syoung",
+    "name": "Steve Young",
+    "position": "QB",
+    "team": "SF",
+    "careerStart": 1985,
+    "careerEnd": 1999,
+    "standardRank": 23,
+    "pprRank": 38
+  },
+  {
+    "id": "tarkenton",
+    "name": "Fran Tarkenton",
+    "position": "QB",
+    "team": "MIN",
+    "careerStart": 1961,
+    "careerEnd": 1978,
+    "standardRank": 40,
+    "pprRank": 57
+  },
+  {
+    "id": "staubach",
+    "name": "Roger Staubach",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 1969,
+    "careerEnd": 1979,
+    "standardRank": 34,
+    "pprRank": 52
+  },
+  {
+    "id": "aikman",
+    "name": "Troy Aikman",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 1989,
+    "careerEnd": 2000,
+    "standardRank": 68,
+    "pprRank": 90
+  },
+  {
+    "id": "kelly",
+    "name": "Jim Kelly",
+    "position": "QB",
+    "team": "BUF",
+    "careerStart": 1986,
+    "careerEnd": 1996,
+    "standardRank": 67,
+    "pprRank": 89
+  },
+  {
+    "id": "moon",
+    "name": "Warren Moon",
+    "position": "QB",
+    "team": "HOU",
+    "careerStart": 1984,
+    "careerEnd": 2000,
+    "standardRank": 39,
+    "pprRank": 56
+  },
+  {
+    "id": "ben",
+    "name": "Ben Roethlisberger",
+    "position": "QB",
+    "team": "PIT",
+    "careerStart": 2004,
+    "careerEnd": 2021,
+    "standardRank": 65,
+    "pprRank": 87
+  },
+  {
+    "id": "warner",
+    "name": "Kurt Warner",
+    "position": "QB",
+    "team": "STL",
+    "careerStart": 1998,
+    "careerEnd": 2009,
+    "standardRank": 66,
+    "pprRank": 88
+  },
+  {
+    "id": "jallen",
+    "name": "Josh Allen",
+    "position": "QB",
+    "team": "BUF",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 99,
+    "pprRank": 118
+  },
+  {
+    "id": "ljackson",
+    "name": "Lamar Jackson",
+    "position": "QB",
+    "team": "BAL",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 100,
+    "pprRank": 119
+  },
+  {
+    "id": "burrow",
+    "name": "Joe Burrow",
+    "position": "QB",
+    "team": "CIN",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 101,
+    "pprRank": 120
+  },
+  {
+    "id": "stafford",
+    "name": "Matthew Stafford",
+    "position": "QB",
+    "team": "DET",
+    "careerStart": 2009,
+    "careerEnd": 2026,
+    "standardRank": 91,
+    "pprRank": 98
+  },
+  {
+    "id": "namath",
+    "name": "Joe Namath",
+    "position": "QB",
+    "team": "NYJ",
+    "careerStart": 1965,
+    "careerEnd": 1977,
+    "standardRank": 88,
+    "pprRank": 95
+  },
+  {
+    "id": "bradshaw",
+    "name": "Terry Bradshaw",
+    "position": "QB",
+    "team": "PIT",
+    "careerStart": 1970,
+    "careerEnd": 1983,
+    "standardRank": 63,
+    "pprRank": 85
+  },
+  {
+    "id": "herbert",
+    "name": "Justin Herbert",
+    "position": "QB",
+    "team": "LAC",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 102,
+    "pprRank": 121
+  },
+  {
+    "id": "hurts",
+    "name": "Jalen Hurts",
+    "position": "QB",
+    "team": "PHI",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 106,
+    "pprRank": 125
+  },
+  {
+    "id": "dak",
+    "name": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 105,
+    "pprRank": 124
+  },
+  {
+    "id": "rivers",
+    "name": "Philip Rivers",
+    "position": "QB",
+    "team": "LAC",
+    "careerStart": 2004,
+    "careerEnd": 2020,
+    "standardRank": 89,
+    "pprRank": 96
+  },
+  {
+    "id": "rwilson",
+    "name": "Russell Wilson",
+    "position": "QB",
+    "team": "SEA",
+    "careerStart": 2012,
+    "careerEnd": 2026,
+    "standardRank": 90,
+    "pprRank": 97
+  },
+  {
+    "id": "fouts",
+    "name": "Dan Fouts",
+    "position": "QB",
+    "team": "SD",
+    "careerStart": 1973,
+    "careerEnd": 1987,
+    "standardRank": 64,
+    "pprRank": 86
+  },
+  {
+    "id": "luck",
+    "name": "Andrew Luck",
+    "position": "QB",
+    "team": "IND",
+    "careerStart": 2012,
+    "careerEnd": 2018,
+    "standardRank": 103,
+    "pprRank": 122
+  },
+  {
+    "id": "vick",
+    "name": "Michael Vick",
+    "position": "QB",
+    "team": "ATL",
+    "careerStart": 2001,
+    "careerEnd": 2015,
+    "standardRank": 104,
+    "pprRank": 123
+  },
+  {
+    "id": "sanders",
+    "name": "Barry Sanders",
+    "position": "RB",
+    "team": "DET",
+    "careerStart": 1989,
+    "careerEnd": 1998,
+    "standardRank": 3,
+    "pprRank": 4
+  },
+  {
+    "id": "payton",
+    "name": "Walter Payton",
+    "position": "RB",
+    "team": "CHI",
+    "careerStart": 1975,
+    "careerEnd": 1987,
+    "standardRank": 4,
+    "pprRank": 5
+  },
+  {
+    "id": "jbrown",
+    "name": "Jim Brown",
+    "position": "RB",
+    "team": "CLE",
+    "careerStart": 1957,
+    "careerEnd": 1965,
+    "standardRank": 2,
+    "pprRank": 12
+  },
+  {
+    "id": "esmith",
+    "name": "Emmitt Smith",
+    "position": "RB",
+    "team": "DAL",
+    "careerStart": 1990,
+    "careerEnd": 2004,
+    "standardRank": 5,
+    "pprRank": 13
+  },
+  {
+    "id": "lt",
+    "name": "LaDainian Tomlinson",
+    "position": "RB",
+    "team": "SD",
+    "careerStart": 2001,
+    "careerEnd": 2011,
+    "standardRank": 6,
+    "pprRank": 11
+  },
+  {
+    "id": "dickerson",
+    "name": "Eric Dickerson",
+    "position": "RB",
+    "team": "LAR",
+    "careerStart": 1983,
+    "careerEnd": 1993,
+    "standardRank": 9,
+    "pprRank": 26
+  },
+  {
+    "id": "faulk",
+    "name": "Marshall Faulk",
+    "position": "RB",
+    "team": "STL",
+    "careerStart": 1994,
+    "careerEnd": 2005,
+    "standardRank": 13,
+    "pprRank": 2
+  },
+  {
+    "id": "ap",
+    "name": "Adrian Peterson",
+    "position": "RB",
+    "team": "MIN",
+    "careerStart": 2007,
+    "careerEnd": 2021,
+    "standardRank": 18,
+    "pprRank": 28
+  },
+  {
+    "id": "simpson",
+    "name": "O.J. Simpson",
+    "position": "RB",
+    "team": "BUF",
+    "careerStart": 1969,
+    "careerEnd": 1979,
+    "standardRank": 22,
+    "pprRank": 50
+  },
+  {
+    "id": "tdavis",
+    "name": "Terrell Davis",
+    "position": "RB",
+    "team": "DEN",
+    "careerStart": 1995,
+    "careerEnd": 2001,
+    "standardRank": 57,
+    "pprRank": 75
+  },
+  {
+    "id": "campbell",
+    "name": "Earl Campbell",
+    "position": "RB",
+    "team": "HOU",
+    "careerStart": 1978,
+    "careerEnd": 1985,
+    "standardRank": 32,
+    "pprRank": 51
+  },
+  {
+    "id": "mallen",
+    "name": "Marcus Allen",
+    "position": "RB",
+    "team": "RAI",
+    "careerStart": 1982,
+    "careerEnd": 1997,
+    "standardRank": 33,
+    "pprRank": 49
+  },
+  {
+    "id": "dorsett",
+    "name": "Tony Dorsett",
+    "position": "RB",
+    "team": "DAL",
+    "careerStart": 1977,
+    "careerEnd": 1988,
+    "standardRank": 36,
+    "pprRank": 53
+  },
+  {
+    "id": "tharris",
+    "name": "Franco Harris",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 1972,
+    "careerEnd": 1984,
+    "standardRank": 37,
+    "pprRank": 54
+  },
+  {
+    "id": "tthomas",
+    "name": "Thurman Thomas",
+    "position": "RB",
+    "team": "BUF",
+    "careerStart": 1988,
+    "careerEnd": 2000,
+    "standardRank": 35,
+    "pprRank": 46
+  },
+  {
+    "id": "ejames",
+    "name": "Edgerrin James",
+    "position": "RB",
+    "team": "IND",
+    "careerStart": 1999,
+    "careerEnd": 2009,
+    "standardRank": 46,
+    "pprRank": 47
+  },
+  {
+    "id": "cmartin",
+    "name": "Curtis Martin",
+    "position": "RB",
+    "team": "NYJ",
+    "careerStart": 1995,
+    "careerEnd": 2006,
+    "standardRank": 47,
+    "pprRank": 48
+  },
+  {
+    "id": "salexander",
+    "name": "Shaun Alexander",
+    "position": "RB",
+    "team": "SEA",
+    "careerStart": 2000,
+    "careerEnd": 2008,
+    "standardRank": 58,
+    "pprRank": 76
+  },
+  {
+    "id": "pholmes",
+    "name": "Priest Holmes",
+    "position": "RB",
+    "team": "KC",
+    "careerStart": 1997,
+    "careerEnd": 2007,
+    "standardRank": 59,
+    "pprRank": 62
+  },
+  {
+    "id": "sayers",
+    "name": "Gale Sayers",
+    "position": "RB",
+    "team": "CHI",
+    "careerStart": 1965,
+    "careerEnd": 1971,
+    "standardRank": 38,
+    "pprRank": 55
+  },
+  {
+    "id": "henry",
+    "name": "Derrick Henry",
+    "position": "RB",
+    "team": "TEN",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 80,
+    "pprRank": 79
+  },
+  {
+    "id": "cmc",
+    "name": "Christian McCaffrey",
+    "position": "RB",
+    "team": "CAR",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 81,
+    "pprRank": 58
+  },
+  {
+    "id": "saquon",
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "team": "NYG",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 114,
+    "pprRank": 106
+  },
+  {
+    "id": "kamara",
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "team": "NO",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 115,
+    "pprRank": 59
+  },
+  {
+    "id": "cook",
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "team": "MIN",
+    "careerStart": 2017,
+    "careerEnd": 2024,
+    "standardRank": 116,
+    "pprRank": 107
+  },
+  {
+    "id": "jtaylor",
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "team": "IND",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 117,
+    "pprRank": 108
+  },
+  {
+    "id": "bijan",
+    "name": "Bijan Robinson",
+    "position": "RB",
+    "team": "ATL",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 128,
+    "pprRank": 126
+  },
+  {
+    "id": "gibbs",
+    "name": "Jahmyr Gibbs",
+    "position": "RB",
+    "team": "DET",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 129,
+    "pprRank": 127
+  },
+  {
+    "id": "bell",
+    "name": "Le'Veon Bell",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 2013,
+    "careerEnd": 2021,
+    "standardRank": 84,
+    "pprRank": 60
+  },
+  {
+    "id": "lynch",
+    "name": "Marshawn Lynch",
+    "position": "RB",
+    "team": "SEA",
+    "careerStart": 2007,
+    "careerEnd": 2019,
+    "standardRank": 82,
+    "pprRank": 81
+  },
+  {
+    "id": "jcharles",
+    "name": "Jamaal Charles",
+    "position": "RB",
+    "team": "KC",
+    "careerStart": 2008,
+    "careerEnd": 2018,
+    "standardRank": 83,
+    "pprRank": 80
+  },
+  {
+    "id": "cj2k",
+    "name": "Chris Johnson",
+    "position": "RB",
+    "team": "TEN",
+    "careerStart": 2008,
+    "careerEnd": 2017,
+    "standardRank": 87,
+    "pprRank": 84
+  },
+  {
+    "id": "bojackson",
+    "name": "Bo Jackson",
+    "position": "RB",
+    "team": "RAI",
+    "careerStart": 1987,
+    "careerEnd": 1990,
+    "standardRank": 85,
+    "pprRank": 82
+  },
+  {
+    "id": "ekeler",
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "team": "LAC",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 120,
+    "pprRank": 61
+  },
+  {
+    "id": "jacobs",
+    "name": "Josh Jacobs",
+    "position": "RB",
+    "team": "LV",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "standardRank": 118,
+    "pprRank": 109
+  },
+  {
+    "id": "mixon",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "CIN",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 119,
+    "pprRank": 110
+  },
+  {
+    "id": "bettis",
+    "name": "Jerome Bettis",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 1993,
+    "careerEnd": 2005,
+    "standardRank": 60,
+    "pprRank": 77
+  },
+  {
+    "id": "watters",
+    "name": "Ricky Watters",
+    "position": "RB",
+    "team": "SF",
+    "careerStart": 1991,
+    "careerEnd": 2001,
+    "standardRank": 62,
+    "pprRank": 63
+  },
+  {
+    "id": "portis",
+    "name": "Clinton Portis",
+    "position": "RB",
+    "team": "DEN",
+    "careerStart": 2002,
+    "careerEnd": 2010,
+    "standardRank": 86,
+    "pprRank": 83
+  },
+  {
+    "id": "ftaylor",
+    "name": "Fred Taylor",
+    "position": "RB",
+    "team": "JAX",
+    "careerStart": 1998,
+    "careerEnd": 2010,
+    "standardRank": 61,
+    "pprRank": 78
+  },
+  {
+    "id": "jrice",
+    "name": "Jerry Rice",
+    "position": "WR",
+    "team": "SF",
+    "careerStart": 1985,
+    "careerEnd": 2004,
+    "standardRank": 1,
+    "pprRank": 1
+  },
+  {
+    "id": "moss",
+    "name": "Randy Moss",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 1998,
+    "careerEnd": 2012,
+    "standardRank": 7,
+    "pprRank": 3
+  },
+  {
+    "id": "to",
+    "name": "Terrell Owens",
+    "position": "WR",
+    "team": "SF",
+    "careerStart": 1996,
+    "careerEnd": 2010,
+    "standardRank": 12,
+    "pprRank": 6
+  },
+  {
+    "id": "harrison",
+    "name": "Marvin Harrison",
+    "position": "WR",
+    "team": "IND",
+    "careerStart": 1996,
+    "careerEnd": 2008,
+    "standardRank": 17,
+    "pprRank": 7
+  },
+  {
+    "id": "fitz",
+    "name": "Larry Fitzgerald",
+    "position": "WR",
+    "team": "ARI",
+    "careerStart": 2004,
+    "careerEnd": 2020,
+    "standardRank": 16,
+    "pprRank": 8
+  },
+  {
+    "id": "megatron",
+    "name": "Calvin Johnson",
+    "position": "WR",
+    "team": "DET",
+    "careerStart": 2007,
+    "careerEnd": 2015,
+    "standardRank": 15,
+    "pprRank": 14
+  },
+  {
+    "id": "julio",
+    "name": "Julio Jones",
+    "position": "WR",
+    "team": "ATL",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "standardRank": 55,
+    "pprRank": 18
+  },
+  {
+    "id": "adams",
+    "name": "Davante Adams",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 2014,
+    "careerEnd": 2026,
+    "standardRank": 96,
+    "pprRank": 68
+  },
+  {
+    "id": "hill",
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "KC",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 97,
+    "pprRank": 69
+  },
+  {
+    "id": "jj",
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 98,
+    "pprRank": 70
+  },
+  {
+    "id": "chase",
+    "name": "Ja'Marr Chase",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 121,
+    "pprRank": 111
+  },
+  {
+    "id": "lamb",
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 122,
+    "pprRank": 112
+  },
+  {
+    "id": "hopkins",
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 92,
+    "pprRank": 64
+  },
+  {
+    "id": "ajgreen",
+    "name": "A.J. Green",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "standardRank": 95,
+    "pprRank": 67
+  },
+  {
+    "id": "carter",
+    "name": "Cris Carter",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 1987,
+    "careerEnd": 2002,
+    "standardRank": 26,
+    "pprRank": 9
+  },
+  {
+    "id": "tbrown",
+    "name": "Tim Brown",
+    "position": "WR",
+    "team": "RAI",
+    "careerStart": 1988,
+    "careerEnd": 2004,
+    "standardRank": 27,
+    "pprRank": 10
+  },
+  {
+    "id": "largent",
+    "name": "Steve Largent",
+    "position": "WR",
+    "team": "SEA",
+    "careerStart": 1976,
+    "careerEnd": 1989,
+    "standardRank": 28,
+    "pprRank": 15
+  },
+  {
+    "id": "alworth",
+    "name": "Lance Alworth",
+    "position": "WR",
+    "team": "SD",
+    "careerStart": 1962,
+    "careerEnd": 1972,
+    "standardRank": 30,
+    "pprRank": 17
+  },
+  {
+    "id": "hutson",
+    "name": "Don Hutson",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1935,
+    "careerEnd": 1945,
+    "standardRank": 29,
+    "pprRank": 16
+  },
+  {
+    "id": "irvin",
+    "name": "Michael Irvin",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 1988,
+    "careerEnd": 1999,
+    "standardRank": 48,
+    "pprRank": 41
+  },
+  {
+    "id": "reed",
+    "name": "Andre Reed",
+    "position": "WR",
+    "team": "BUF",
+    "careerStart": 1985,
+    "careerEnd": 2000,
+    "standardRank": 49,
+    "pprRank": 42
+  },
+  {
+    "id": "lofton",
+    "name": "James Lofton",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1978,
+    "careerEnd": 1993,
+    "standardRank": 50,
+    "pprRank": 43
+  },
+  {
+    "id": "ssharpew",
+    "name": "Sterling Sharpe",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1988,
+    "careerEnd": 1994,
+    "standardRank": 51,
+    "pprRank": 44
+  },
+  {
+    "id": "bruce",
+    "name": "Isaac Bruce",
+    "position": "WR",
+    "team": "STL",
+    "careerStart": 1994,
+    "careerEnd": 2009,
+    "standardRank": 52,
+    "pprRank": 21
+  },
+  {
+    "id": "holt",
+    "name": "Torry Holt",
+    "position": "WR",
+    "team": "STL",
+    "careerStart": 1999,
+    "careerEnd": 2009,
+    "standardRank": 53,
+    "pprRank": 22
+  },
+  {
+    "id": "ochocinco",
+    "name": "Chad Johnson",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2001,
+    "careerEnd": 2011,
+    "standardRank": 78,
+    "pprRank": 71
+  },
+  {
+    "id": "wayne",
+    "name": "Reggie Wayne",
+    "position": "WR",
+    "team": "IND",
+    "careerStart": 2001,
+    "careerEnd": 2014,
+    "standardRank": 56,
+    "pprRank": 20
+  },
+  {
+    "id": "ajohnson",
+    "name": "Andre Johnson",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2003,
+    "careerEnd": 2016,
+    "standardRank": 54,
+    "pprRank": 19
+  },
+  {
+    "id": "dez",
+    "name": "Dez Bryant",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 2010,
+    "careerEnd": 2020,
+    "standardRank": 79,
+    "pprRank": 72
+  },
+  {
+    "id": "obj",
+    "name": "Odell Beckham Jr.",
+    "position": "WR",
+    "team": "NYG",
+    "careerStart": 2014,
+    "careerEnd": 2023,
+    "standardRank": 94,
+    "pprRank": 66
+  },
+  {
+    "id": "ab",
+    "name": "Antonio Brown",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 2010,
+    "careerEnd": 2021,
+    "standardRank": 93,
+    "pprRank": 65
+  },
+  {
+    "id": "diggs",
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "team": "BUF",
+    "careerStart": 2015,
+    "careerEnd": 2026,
+    "standardRank": 123,
+    "pprRank": 113
+  },
+  {
+    "id": "ajbrown",
+    "name": "A.J. Brown",
+    "position": "WR",
+    "team": "PHI",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "standardRank": 124,
+    "pprRank": 114
+  },
+  {
+    "id": "puka",
+    "name": "Puka Nacua",
+    "position": "WR",
+    "team": "LAR",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 130,
+    "pprRank": 128
+  },
+  {
+    "id": "stbrown",
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "DET",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 131,
+    "pprRank": 129
+  },
+  {
+    "id": "nico",
+    "name": "Nico Collins",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 132,
+    "pprRank": 130
+  },
+  {
+    "id": "kupp",
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "team": "LAR",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 125,
+    "pprRank": 115
+  },
+  {
+    "id": "swann",
+    "name": "Lynn Swann",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1974,
+    "careerEnd": 1982,
+    "standardRank": 75,
+    "pprRank": 133
+  },
+  {
+    "id": "warfield",
+    "name": "Paul Warfield",
+    "position": "WR",
+    "team": "MIA",
+    "careerStart": 1964,
+    "careerEnd": 1977,
+    "standardRank": 74,
+    "pprRank": 74
+  },
+  {
+    "id": "stallworth",
+    "name": "John Stallworth",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1974,
+    "careerEnd": 1987,
+    "standardRank": 76,
+    "pprRank": 134
+  },
+  {
+    "id": "hward",
+    "name": "Hines Ward",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1998,
+    "careerEnd": 2011,
+    "standardRank": 77,
+    "pprRank": 73
+  },
+  {
+    "id": "gronk",
+    "name": "Rob Gronkowski",
+    "position": "TE",
+    "team": "NE",
+    "careerStart": 2010,
+    "careerEnd": 2021,
+    "standardRank": 42,
+    "pprRank": 34
+  },
+  {
+    "id": "kelce",
+    "name": "Travis Kelce",
+    "position": "TE",
+    "team": "KC",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 43,
+    "pprRank": 33
+  },
+  {
+    "id": "gonzalez",
+    "name": "Tony Gonzalez",
+    "position": "TE",
+    "team": "KC",
+    "careerStart": 1997,
+    "careerEnd": 2013,
+    "standardRank": 41,
+    "pprRank": 32
+  },
+  {
+    "id": "gates",
+    "name": "Antonio Gates",
+    "position": "TE",
+    "team": "SD",
+    "careerStart": 2003,
+    "careerEnd": 2018,
+    "standardRank": 44,
+    "pprRank": 35
+  },
+  {
+    "id": "witten",
+    "name": "Jason Witten",
+    "position": "TE",
+    "team": "DAL",
+    "careerStart": 2003,
+    "careerEnd": 2020,
+    "standardRank": 73,
+    "pprRank": 37
+  },
+  {
+    "id": "ssharpe",
+    "name": "Shannon Sharpe",
+    "position": "TE",
+    "team": "DEN",
+    "careerStart": 1990,
+    "careerEnd": 2003,
+    "standardRank": 45,
+    "pprRank": 36
+  },
+  {
+    "id": "winslow",
+    "name": "Kellen Winslow",
+    "position": "TE",
+    "team": "SD",
+    "careerStart": 1979,
+    "careerEnd": 1987,
+    "standardRank": 69,
+    "pprRank": 91
+  },
+  {
+    "id": "newsome",
+    "name": "Ozzie Newsome",
+    "position": "TE",
+    "team": "CLE",
+    "careerStart": 1978,
+    "careerEnd": 1990,
+    "standardRank": 70,
+    "pprRank": 92
+  },
+  {
+    "id": "ditka",
+    "name": "Mike Ditka",
+    "position": "TE",
+    "team": "CHI",
+    "careerStart": 1961,
+    "careerEnd": 1972,
+    "standardRank": 71,
+    "pprRank": 93
+  },
+  {
+    "id": "mackey",
+    "name": "John Mackey",
+    "position": "TE",
+    "team": "BAL",
+    "careerStart": 1963,
+    "careerEnd": 1972,
+    "standardRank": 72,
+    "pprRank": 94
+  },
+  {
+    "id": "graham",
+    "name": "Jimmy Graham",
+    "position": "TE",
+    "team": "NO",
+    "careerStart": 2010,
+    "careerEnd": 2023,
+    "standardRank": 107,
+    "pprRank": 99
+  },
+  {
+    "id": "kittle",
+    "name": "George Kittle",
+    "position": "TE",
+    "team": "SF",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 108,
+    "pprRank": 100
+  },
+  {
+    "id": "andrews",
+    "name": "Mark Andrews",
+    "position": "TE",
+    "team": "BAL",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 126,
+    "pprRank": 116
+  },
+  {
+    "id": "waller",
+    "name": "Darren Waller",
+    "position": "TE",
+    "team": "LV",
+    "careerStart": 2018,
+    "careerEnd": 2024,
+    "standardRank": 127,
+    "pprRank": 117
+  },
+  {
+    "id": "laporta",
+    "name": "Sam LaPorta",
+    "position": "TE",
+    "team": "DET",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 133,
+    "pprRank": 131
+  },
+  {
+    "id": "mcbride",
+    "name": "Trey McBride",
+    "position": "TE",
+    "team": "ARI",
+    "careerStart": 2022,
+    "careerEnd": 2026,
+    "standardRank": 134,
+    "pprRank": 132
+  },
+  {
+    "id": "clark",
+    "name": "Dallas Clark",
+    "position": "TE",
+    "team": "IND",
+    "careerStart": 2003,
+    "careerEnd": 2013,
+    "standardRank": 113,
+    "pprRank": 103
+  },
+  {
+    "id": "casper",
+    "name": "Dave Casper",
+    "position": "TE",
+    "team": "OAK",
+    "careerStart": 1974,
+    "careerEnd": 1984,
+    "standardRank": 109,
+    "pprRank": 104
+  },
+  {
+    "id": "olson",
+    "name": "Greg Olsen",
+    "position": "TE",
+    "team": "CAR",
+    "careerStart": 2007,
+    "careerEnd": 2020,
+    "standardRank": 111,
+    "pprRank": 101
+  },
+  {
+    "id": "ertz",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "PHI",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 112,
+    "pprRank": 102
+  },
+  {
+    "id": "christensen",
+    "name": "Todd Christensen",
+    "position": "TE",
+    "team": "RAI",
+    "careerStart": 1979,
+    "careerEnd": 1988,
+    "standardRank": 110,
+    "pprRank": 105
+  }
+]

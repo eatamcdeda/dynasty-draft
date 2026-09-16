@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-field: #07111f;
+  --color-field-dark: #07111f;
+  --color-field-card: #13233b;
+  --color-field-turf: #1a2f4d;
+  --color-gold: #c4a35a;
+  --color-cream: #f4f6f8;
+  --color-clock: #f0c14b;
+  --font-oswald: "Oswald", Impact, sans-serif;
+}
+
+:root {
+  --background: #07111f;
+  --foreground: #f4f6f8;
+}
+
+body {
+  background:
+    radial-gradient(1200px 500px at 50% -10%, rgba(213, 10, 10, 0.18), transparent 50%),
+    linear-gradient(180deg, #07111f 0%, #0a1c18 42%, #07111f 100%);
+  color: var(--foreground);
+  font-family: Inter, "Segoe UI", sans-serif;
+}

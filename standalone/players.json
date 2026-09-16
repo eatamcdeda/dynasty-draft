@@ -1,0 +1,6761 @@
+[
+  {
+    "id": "jrice",
+    "name": "Jerry Rice",
+    "position": "WR",
+    "team": "SF",
+    "careerStart": 1985,
+    "careerEnd": 2004,
+    "standardRank": 1,
+    "pprRank": 1,
+    "statLine": "22,895 receiving yards · 197 TD catches · 1,549 receptions",
+    "teams": [
+      "SF",
+      "OAK",
+      "SEA"
+    ]
+  },
+  {
+    "id": "jbrown",
+    "name": "Jim Brown",
+    "position": "RB",
+    "team": "CLE",
+    "careerStart": 1957,
+    "careerEnd": 1965,
+    "standardRank": 2,
+    "pprRank": 12,
+    "statLine": "5.2 yards per carry career · 12,312 rush yards in 9 years",
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "sanders",
+    "name": "Barry Sanders",
+    "position": "RB",
+    "team": "DET",
+    "careerStart": 1989,
+    "careerEnd": 1998,
+    "standardRank": 3,
+    "pprRank": 4,
+    "statLine": "15,269 rush yards · never a 370-carry season",
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "payton",
+    "name": "Walter Payton",
+    "position": "RB",
+    "team": "CHI",
+    "careerStart": 1975,
+    "careerEnd": 1987,
+    "standardRank": 4,
+    "pprRank": 5,
+    "statLine": "16,726 rush yards · 1977: 1,852 yards / 16 TD",
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "esmith",
+    "name": "Emmitt Smith",
+    "position": "RB",
+    "team": "DAL",
+    "careerStart": 1990,
+    "careerEnd": 2004,
+    "standardRank": 5,
+    "pprRank": 13,
+    "statLine": "NFL all-time 18,355 rush yards · 164 rush TDs",
+    "teams": [
+      "DAL",
+      "ARI"
+    ]
+  },
+  {
+    "id": "lt",
+    "name": "LaDainian Tomlinson",
+    "position": "RB",
+    "team": "SD",
+    "careerStart": 2001,
+    "careerEnd": 2011,
+    "standardRank": 6,
+    "pprRank": 11,
+    "statLine": "2006: 31 total TDs · 13,684 rush yards",
+    "teams": [
+      "SD",
+      "LAC",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "moss",
+    "name": "Randy Moss",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 1998,
+    "careerEnd": 2012,
+    "standardRank": 7,
+    "pprRank": 3,
+    "statLine": "156 TD catches · 2007: 23 receiving TDs",
+    "teams": [
+      "MIN",
+      "OAK",
+      "NE",
+      "TEN",
+      "SF"
+    ]
+  },
+  {
+    "id": "brady",
+    "name": "Tom Brady",
+    "position": "QB",
+    "team": "NE",
+    "careerStart": 2000,
+    "careerEnd": 2022,
+    "standardRank": 8,
+    "pprRank": 25,
+    "statLine": "7× Super Bowl champ · 649 career TD passes",
+    "teams": [
+      "NE",
+      "TB"
+    ]
+  },
+  {
+    "id": "ltaylor",
+    "name": "Lawrence Taylor",
+    "position": "LB",
+    "team": "NYG",
+    "careerStart": 1981,
+    "careerEnd": 1993,
+    "statLine": "142.0 sacks · 1986 NFL MVP from linebacker",
+    "standardRank": 9,
+    "pprRank": 16,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "dickerson",
+    "name": "Eric Dickerson",
+    "position": "RB",
+    "team": "LAR",
+    "careerStart": 1983,
+    "careerEnd": 1993,
+    "standardRank": 10,
+    "pprRank": 28,
+    "statLine": "1984: 2,105 rush yards · 13,259 career",
+    "teams": [
+      "LAR",
+      "IND",
+      "ATL",
+      "OAK"
+    ]
+  },
+  {
+    "id": "pmanning",
+    "name": "Peyton Manning",
+    "position": "QB",
+    "team": "IND",
+    "careerStart": 1998,
+    "careerEnd": 2015,
+    "standardRank": 11,
+    "pprRank": 26,
+    "statLine": "2004: 49 TD passes · 5× NFL MVP",
+    "teams": [
+      "IND",
+      "DEN"
+    ]
+  },
+  {
+    "id": "montana",
+    "name": "Joe Montana",
+    "position": "QB",
+    "team": "SF",
+    "careerStart": 1979,
+    "careerEnd": 1994,
+    "standardRank": 12,
+    "pprRank": 27,
+    "statLine": "4× Super Bowl champ · 4 Super Bowl MVPs",
+    "teams": [
+      "SF",
+      "KC"
+    ]
+  },
+  {
+    "id": "to",
+    "name": "Terrell Owens",
+    "position": "WR",
+    "team": "SF",
+    "careerStart": 1996,
+    "careerEnd": 2010,
+    "standardRank": 13,
+    "pprRank": 6,
+    "statLine": "15,934 yards · 153 TD catches",
+    "teams": [
+      "SF",
+      "PHI",
+      "DAL",
+      "BUF",
+      "CIN"
+    ]
+  },
+  {
+    "id": "rwhite",
+    "name": "Reggie White",
+    "position": "DL",
+    "team": "PHI",
+    "careerStart": 1985,
+    "careerEnd": 2000,
+    "statLine": "198.0 sacks · Minister of Defense",
+    "standardRank": 14,
+    "pprRank": 21,
+    "teams": [
+      "PHI",
+      "GB",
+      "CAR"
+    ]
+  },
+  {
+    "id": "faulk",
+    "name": "Marshall Faulk",
+    "position": "RB",
+    "team": "STL",
+    "careerStart": 1994,
+    "careerEnd": 2005,
+    "standardRank": 15,
+    "pprRank": 2,
+    "statLine": "1999: 2,429 yards from scrimmage · 26 total TDs in 2000",
+    "teams": [
+      "STL",
+      "IND"
+    ]
+  },
+  {
+    "id": "marino",
+    "name": "Dan Marino",
+    "position": "QB",
+    "team": "MIA",
+    "careerStart": 1983,
+    "careerEnd": 1999,
+    "standardRank": 16,
+    "pprRank": 29,
+    "statLine": "1984: 5,084 yards · 48 TD passes",
+    "teams": [
+      "MIA"
+    ]
+  },
+  {
+    "id": "megatron",
+    "name": "Calvin Johnson",
+    "position": "WR",
+    "team": "DET",
+    "careerStart": 2007,
+    "careerEnd": 2015,
+    "standardRank": 17,
+    "pprRank": 14,
+    "statLine": "2012: 1,964 receiving yards · 139.0 passer-rating target",
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "jgreene",
+    "name": "Joe Greene",
+    "position": "DL",
+    "team": "PIT",
+    "careerStart": 1969,
+    "careerEnd": 1981,
+    "statLine": "Steel Curtain anchor · 4 Super Bowl rings",
+    "standardRank": 18,
+    "pprRank": 32,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "fitz",
+    "name": "Larry Fitzgerald",
+    "position": "WR",
+    "team": "ARI",
+    "careerStart": 2004,
+    "careerEnd": 2020,
+    "standardRank": 19,
+    "pprRank": 8,
+    "statLine": "1,432 receptions · 17,492 yards · 11× Pro Bowl",
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "harrison",
+    "name": "Marvin Harrison",
+    "position": "WR",
+    "team": "IND",
+    "careerStart": 1996,
+    "careerEnd": 2008,
+    "standardRank": 20,
+    "pprRank": 7,
+    "statLine": "2002: 143/1,722/11 · 1,102 career catches",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "deion",
+    "name": "Deion Sanders",
+    "position": "DB",
+    "team": "ATL",
+    "careerStart": 1989,
+    "careerEnd": 2005,
+    "statLine": "53 INTs · Prime Time on both sides of the ball",
+    "standardRank": 21,
+    "pprRank": 34,
+    "teams": [
+      "ATL",
+      "SF",
+      "DAL",
+      "WAS",
+      "BAL"
+    ]
+  },
+  {
+    "id": "ap",
+    "name": "Adrian Peterson",
+    "position": "RB",
+    "team": "MIN",
+    "careerStart": 2007,
+    "careerEnd": 2021,
+    "standardRank": 22,
+    "pprRank": 30,
+    "statLine": "2012: 2,097 rush yards · 14,811 career",
+    "teams": [
+      "MIN",
+      "NO",
+      "ARI",
+      "WAS",
+      "TEN"
+    ]
+  },
+  {
+    "id": "favre",
+    "name": "Brett Favre",
+    "position": "QB",
+    "team": "GB",
+    "careerStart": 1991,
+    "careerEnd": 2010,
+    "standardRank": 23,
+    "pprRank": 31,
+    "statLine": "297 consecutive starts · 3 straight MVPs (1995–97)",
+    "teams": [
+      "GB",
+      "NYJ",
+      "MIN"
+    ]
+  },
+  {
+    "id": "bsmith",
+    "name": "Bruce Smith",
+    "position": "DL",
+    "team": "BUF",
+    "careerStart": 1985,
+    "careerEnd": 2003,
+    "statLine": "NFL-record 200.0 career sacks",
+    "standardRank": 24,
+    "pprRank": 37,
+    "teams": [
+      "BUF",
+      "WAS"
+    ]
+  },
+  {
+    "id": "rodgers",
+    "name": "Aaron Rodgers",
+    "position": "QB",
+    "team": "GB",
+    "careerStart": 2005,
+    "careerEnd": 2026,
+    "standardRank": 25,
+    "pprRank": 33,
+    "statLine": "2020: 48 TD / 5 INT · 4× NFL MVP",
+    "teams": [
+      "GB",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "brees",
+    "name": "Drew Brees",
+    "position": "QB",
+    "team": "NO",
+    "careerStart": 2001,
+    "careerEnd": 2020,
+    "standardRank": 26,
+    "pprRank": 35,
+    "statLine": "2011: 5,476 passing yards · 5× 5,000-yard seasons",
+    "teams": [
+      "NO",
+      "SD"
+    ]
+  },
+  {
+    "id": "raylewis",
+    "name": "Ray Lewis",
+    "position": "LB",
+    "team": "BAL",
+    "careerStart": 1996,
+    "careerEnd": 2012,
+    "statLine": "2,059 tackles · Super Bowl XXXV MVP",
+    "standardRank": 27,
+    "pprRank": 41,
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "simpson",
+    "name": "O.J. Simpson",
+    "position": "RB",
+    "team": "BUF",
+    "careerStart": 1969,
+    "careerEnd": 1979,
+    "standardRank": 28,
+    "pprRank": 374,
+    "statLine": "1973: 2,003 rush yards in 14 games",
+    "teams": [
+      "BUF",
+      "SF"
+    ]
+  },
+  {
+    "id": "butkus",
+    "name": "Dick Butkus",
+    "position": "LB",
+    "team": "CHI",
+    "careerStart": 1965,
+    "careerEnd": 1973,
+    "statLine": "Middle linebacker terror · 8× First-team All-Pro",
+    "standardRank": 29,
+    "pprRank": 44,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "tillman",
+    "name": "Pat Tillman",
+    "position": "DB",
+    "team": "ARI",
+    "careerStart": 1998,
+    "careerEnd": 2001,
+    "statLine": "Walked away from the NFL to serve · Cardinals captain",
+    "standardRank": 30,
+    "pprRank": 45,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "lwilson",
+    "name": "Larry Wilson",
+    "position": "DB",
+    "team": "ARI",
+    "careerStart": 1960,
+    "careerEnd": 1972,
+    "statLine": "52 INTs · invented the safety blitz",
+    "standardRank": 31,
+    "pprRank": 46,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "lott",
+    "name": "Ronnie Lott",
+    "position": "DB",
+    "team": "SF",
+    "careerStart": 1981,
+    "careerEnd": 1994,
+    "statLine": "63 INTs · 4 Super Bowl rings · the pinky",
+    "standardRank": 32,
+    "pprRank": 48,
+    "teams": [
+      "SF",
+      "RAI",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "aeneas",
+    "name": "Aeneas Williams",
+    "position": "DB",
+    "team": "ARI",
+    "careerStart": 1991,
+    "careerEnd": 2004,
+    "statLine": "55 INTs · shutdown corner in Phoenix and St. Louis",
+    "standardRank": 33,
+    "pprRank": 47,
+    "teams": [
+      "ARI",
+      "STL"
+    ]
+  },
+  {
+    "id": "djones",
+    "name": "Deacon Jones",
+    "position": "DL",
+    "team": "LAR",
+    "careerStart": 1961,
+    "careerEnd": 1974,
+    "statLine": "Invented the sack · Fearsome Foursome",
+    "standardRank": 34,
+    "pprRank": 51,
+    "teams": [
+      "LAR",
+      "SD",
+      "WAS"
+    ]
+  },
+  {
+    "id": "olsenm",
+    "name": "Merlin Olsen",
+    "position": "DL",
+    "team": "LAR",
+    "careerStart": 1962,
+    "careerEnd": 1976,
+    "statLine": "Fearsome Foursome · 14 straight Pro Bowls",
+    "standardRank": 35,
+    "pprRank": 53,
+    "teams": [
+      "LAR"
+    ]
+  },
+  {
+    "id": "chandlerj",
+    "name": "Chandler Jones",
+    "position": "DL",
+    "team": "ARI",
+    "careerStart": 2012,
+    "careerEnd": 2023,
+    "statLine": "112.0 sacks · 2019 sack champion in Arizona",
+    "standardRank": 36,
+    "pprRank": 49,
+    "teams": [
+      "ARI",
+      "NE"
+    ]
+  },
+  {
+    "id": "adonald",
+    "name": "Aaron Donald",
+    "position": "DL",
+    "team": "LAR",
+    "careerStart": 2014,
+    "careerEnd": 2023,
+    "statLine": "111.0 sacks · 3× Defensive Player of the Year",
+    "standardRank": 37,
+    "pprRank": 54,
+    "teams": [
+      "LAR"
+    ]
+  },
+  {
+    "id": "dansby",
+    "name": "Karlos Dansby",
+    "position": "LB",
+    "team": "ARI",
+    "careerStart": 2004,
+    "careerEnd": 2017,
+    "statLine": "1,417 tackles · Cardinals tackling machine",
+    "standardRank": 38,
+    "pprRank": 50,
+    "teams": [
+      "ARI",
+      "MIA",
+      "CLE"
+    ]
+  },
+  {
+    "id": "bears85",
+    "name": "1985 Bears",
+    "position": "DST",
+    "team": "CHI",
+    "careerStart": 1985,
+    "careerEnd": 1985,
+    "statLine": "46 takeaways · Super Bowl XX 46–10 demolition",
+    "standardRank": 39,
+    "pprRank": 55,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "dockett",
+    "name": "Darnell Dockett",
+    "position": "DL",
+    "team": "ARI",
+    "careerStart": 2004,
+    "careerEnd": 2014,
+    "statLine": "40.5 sacks · Super Bowl XLIII interior disruptor",
+    "standardRank": 40,
+    "pprRank": 52,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "jjwatt",
+    "name": "J.J. Watt",
+    "position": "DL",
+    "team": "HOU",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "statLine": "114.5 sacks · 3× DPOY · 20.5 sacks in 2012",
+    "standardRank": 41,
+    "pprRank": 64,
+    "teams": [
+      "HOU",
+      "ARI"
+    ]
+  },
+  {
+    "id": "alanpage",
+    "name": "Alan Page",
+    "position": "DL",
+    "team": "MIN",
+    "careerStart": 1967,
+    "careerEnd": 1981,
+    "statLine": "1971 NFL MVP from the defensive line · Purple People Eaters",
+    "standardRank": 42,
+    "pprRank": 60,
+    "teams": [
+      "MIN",
+      "CHI"
+    ]
+  },
+  {
+    "id": "ereed",
+    "name": "Ed Reed",
+    "position": "DB",
+    "team": "BAL",
+    "careerStart": 2002,
+    "careerEnd": 2013,
+    "statLine": "64 INTs · 1,590 INT return yards",
+    "standardRank": 43,
+    "pprRank": 66,
+    "teams": [
+      "BAL",
+      "HOU",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "nitschke",
+    "name": "Ray Nitschke",
+    "position": "LB",
+    "team": "GB",
+    "careerStart": 1958,
+    "careerEnd": 1972,
+    "statLine": "Packers middle linebacker · 5 NFL championships / 2 Super Bowls",
+    "standardRank": 44,
+    "pprRank": 62,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "ppeterson",
+    "name": "Patrick Peterson",
+    "position": "DB",
+    "team": "ARI",
+    "careerStart": 2011,
+    "careerEnd": 2024,
+    "statLine": "8× Pro Bowl · 2011 return-TD rookie year",
+    "standardRank": 45,
+    "pprRank": 56,
+    "teams": [
+      "ARI",
+      "MIN"
+    ]
+  },
+  {
+    "id": "ravens00",
+    "name": "2000 Ravens",
+    "position": "DST",
+    "team": "BAL",
+    "careerStart": 2000,
+    "careerEnd": 2000,
+    "statLine": "165 points allowed all year · Super Bowl XXXV",
+    "standardRank": 46,
+    "pprRank": 68,
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "chumprey",
+    "name": "Claude Humphrey",
+    "position": "DL",
+    "team": "ATL",
+    "careerStart": 1968,
+    "careerEnd": 1981,
+    "statLine": "122.5 unofficial sacks · Falcons pass-rush original",
+    "standardRank": 47,
+    "pprRank": 57,
+    "teams": [
+      "ATL",
+      "PHI"
+    ]
+  },
+  {
+    "id": "wdavis",
+    "name": "Willie Davis",
+    "position": "DL",
+    "team": "GB",
+    "careerStart": 1958,
+    "careerEnd": 1969,
+    "statLine": "Pass-rush pioneer · 5 NFL titles in Green Bay",
+    "standardRank": 48,
+    "pprRank": 70,
+    "teams": [
+      "GB",
+      "CLE"
+    ]
+  },
+  {
+    "id": "ntl",
+    "name": "Night Train Lane",
+    "position": "DB",
+    "team": "DET",
+    "careerStart": 1952,
+    "careerEnd": 1965,
+    "statLine": "68 INTs · 14 as a rookie in 1952",
+    "standardRank": 49,
+    "pprRank": 71,
+    "teams": [
+      "DET",
+      "LAR",
+      "CHI"
+    ]
+  },
+  {
+    "id": "tnobis",
+    "name": "Tommy Nobis",
+    "position": "LB",
+    "team": "ATL",
+    "careerStart": 1966,
+    "careerEnd": 1976,
+    "statLine": "Mr. Falcon · 1966 NFL Rookie of the Year",
+    "standardRank": 50,
+    "pprRank": 58,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "lambert",
+    "name": "Jack Lambert",
+    "position": "LB",
+    "team": "PIT",
+    "careerStart": 1974,
+    "careerEnd": 1984,
+    "statLine": "Steel Curtain enforcer · 4 Super Bowl rings",
+    "standardRank": 51,
+    "pprRank": 73,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "tuggle",
+    "name": "Jessie Tuggle",
+    "position": "LB",
+    "team": "ATL",
+    "careerStart": 1987,
+    "careerEnd": 2000,
+    "statLine": "1,640 tackles · Falcons all-time tackle king",
+    "standardRank": 52,
+    "pprRank": 59,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "adderley",
+    "name": "Herb Adderley",
+    "position": "DB",
+    "team": "GB",
+    "careerStart": 1961,
+    "careerEnd": 1972,
+    "statLine": "48 INTs · 5 NFL titles and 3 Super Bowl rings",
+    "standardRank": 53,
+    "pprRank": 76,
+    "teams": [
+      "GB",
+      "DAL"
+    ]
+  },
+  {
+    "id": "singletary",
+    "name": "Mike Singletary",
+    "position": "LB",
+    "team": "CHI",
+    "careerStart": 1981,
+    "careerEnd": 1992,
+    "statLine": "Samurai Mike · 1985 Bears defensive captain",
+    "standardRank": 54,
+    "pprRank": 77,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "jabraham",
+    "name": "John Abraham",
+    "position": "DL",
+    "team": "ATL",
+    "careerStart": 2000,
+    "careerEnd": 2014,
+    "statLine": "133.5 sacks · Jets-to-Falcons edge terror",
+    "standardRank": 55,
+    "pprRank": 61,
+    "teams": [
+      "ATL",
+      "NYJ",
+      "ARI"
+    ]
+  },
+  {
+    "id": "steelers76",
+    "name": "1976 Steelers",
+    "position": "DST",
+    "team": "PIT",
+    "careerStart": 1976,
+    "careerEnd": 1976,
+    "statLine": "Allowed 28 points over the last 9 games",
+    "standardRank": 56,
+    "pprRank": 78,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "gjarrett",
+    "name": "Grady Jarrett",
+    "position": "DL",
+    "team": "ATL",
+    "careerStart": 2015,
+    "careerEnd": 2026,
+    "statLine": "Super Bowl LI 3-sack half · Falcons interior staple",
+    "standardRank": 57,
+    "pprRank": 63,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "rwoodson",
+    "name": "Rod Woodson",
+    "position": "DB",
+    "team": "PIT",
+    "careerStart": 1987,
+    "careerEnd": 2003,
+    "statLine": "71 INTs · 1,483 INT return yards",
+    "standardRank": 58,
+    "pprRank": 83,
+    "teams": [
+      "PIT",
+      "SF",
+      "BAL",
+      "OAK"
+    ]
+  },
+  {
+    "id": "rlawrence",
+    "name": "Rolland Lawrence",
+    "position": "DB",
+    "team": "ATL",
+    "careerStart": 1973,
+    "careerEnd": 1980,
+    "statLine": "39 INTs · Falcons all-time pick leader",
+    "standardRank": 59,
+    "pprRank": 65,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "cbennett",
+    "name": "Cornelius Bennett",
+    "position": "LB",
+    "team": "BUF",
+    "careerStart": 1987,
+    "careerEnd": 2000,
+    "statLine": "71.5 sacks · Bills Super Bowl-era wrecking crew",
+    "standardRank": 60,
+    "pprRank": 67,
+    "teams": [
+      "BUF",
+      "ATL",
+      "IND"
+    ]
+  },
+  {
+    "id": "dthomas",
+    "name": "Derrick Thomas",
+    "position": "LB",
+    "team": "KC",
+    "careerStart": 1989,
+    "careerEnd": 1999,
+    "statLine": "126.5 sacks · 7-sack game vs. Seattle",
+    "standardRank": 61,
+    "pprRank": 91,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "smerlas",
+    "name": "Fred Smerlas",
+    "position": "DL",
+    "team": "BUF",
+    "careerStart": 1979,
+    "careerEnd": 1992,
+    "statLine": "5× Pro Bowl nose tackle · 1980s Bills identity",
+    "standardRank": 62,
+    "pprRank": 69,
+    "teams": [
+      "BUF",
+      "SF",
+      "NE"
+    ]
+  },
+  {
+    "id": "twhite",
+    "name": "Tre'Davious White",
+    "position": "DB",
+    "team": "BUF",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "statLine": "2019 All-Pro lockdown · 18 INTs in Buffalo",
+    "standardRank": 63,
+    "pprRank": 72,
+    "teams": [
+      "BUF",
+      "LAR"
+    ]
+  },
+  {
+    "id": "lilly",
+    "name": "Bob Lilly",
+    "position": "DL",
+    "team": "DAL",
+    "careerStart": 1961,
+    "careerEnd": 1974,
+    "statLine": "Mr. Cowboy · Doomsday Defense pillar",
+    "standardRank": 64,
+    "pprRank": 93,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "conlan",
+    "name": "Shane Conlan",
+    "position": "LB",
+    "team": "BUF",
+    "careerStart": 1987,
+    "careerEnd": 1995,
+    "statLine": "3× Pro Bowl · Super Bowl-run inside linebacker",
+    "standardRank": 65,
+    "pprRank": 74,
+    "teams": [
+      "BUF",
+      "STL"
+    ]
+  },
+  {
+    "id": "mariowill",
+    "name": "Mario Williams",
+    "position": "DL",
+    "team": "HOU",
+    "careerStart": 2006,
+    "careerEnd": 2016,
+    "statLine": "97.5 sacks · No. 1 pick pass rusher in Houston and Buffalo",
+    "standardRank": 66,
+    "pprRank": 75,
+    "teams": [
+      "HOU",
+      "BUF",
+      "MIA"
+    ]
+  },
+  {
+    "id": "blount",
+    "name": "Mel Blount",
+    "position": "DB",
+    "team": "PIT",
+    "careerStart": 1970,
+    "careerEnd": 1983,
+    "statLine": "57 INTs · bump-and-run that changed the rules",
+    "standardRank": 67,
+    "pprRank": 99,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "awinfield",
+    "name": "Antoine Winfield",
+    "position": "DB",
+    "team": "BUF",
+    "careerStart": 1999,
+    "careerEnd": 2012,
+    "statLine": "27 INTs · tackling safety in Buffalo then Minnesota",
+    "standardRank": 68,
+    "pprRank": 79,
+    "teams": [
+      "BUF",
+      "MIN"
+    ]
+  },
+  {
+    "id": "cwoodson",
+    "name": "Charles Woodson",
+    "position": "DB",
+    "team": "OAK",
+    "careerStart": 1998,
+    "careerEnd": 2015,
+    "statLine": "65 INTs · 2009 Defensive Player of the Year",
+    "standardRank": 69,
+    "pprRank": 101,
+    "teams": [
+      "OAK",
+      "GB"
+    ]
+  },
+  {
+    "id": "tdavislb",
+    "name": "Thomas Davis",
+    "position": "LB",
+    "team": "CAR",
+    "careerStart": 2005,
+    "careerEnd": 2019,
+    "statLine": "1,110 tackles · Super Bowl 50 captain after three ACLs",
+    "standardRank": 70,
+    "pprRank": 80,
+    "teams": [
+      "CAR",
+      "LAC",
+      "WAS"
+    ]
+  },
+  {
+    "id": "urlacher",
+    "name": "Brian Urlacher",
+    "position": "LB",
+    "team": "CHI",
+    "careerStart": 2000,
+    "careerEnd": 2012,
+    "statLine": "1,353 tackles · 2005 DPOY",
+    "standardRank": 71,
+    "pprRank": 104,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "krause",
+    "name": "Paul Krause",
+    "position": "DB",
+    "team": "MIN",
+    "careerStart": 1964,
+    "careerEnd": 1979,
+    "statLine": "NFL-record 81 career INTs",
+    "standardRank": 72,
+    "pprRank": 102,
+    "teams": [
+      "MIN",
+      "WAS"
+    ]
+  },
+  {
+    "id": "minter",
+    "name": "Mike Minter",
+    "position": "DB",
+    "team": "CAR",
+    "careerStart": 1997,
+    "careerEnd": 2006,
+    "statLine": "Original Panther safety · 15 INTs, 8 sacks",
+    "standardRank": 73,
+    "pprRank": 81,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "seahawks13",
+    "name": "2013 Seahawks",
+    "position": "DST",
+    "team": "SEA",
+    "careerStart": 2013,
+    "careerEnd": 2013,
+    "statLine": "Legion of Boom · Super Bowl XLVIII 43–8",
+    "standardRank": 74,
+    "pprRank": 111,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "randle",
+    "name": "John Randle",
+    "position": "DL",
+    "team": "MIN",
+    "careerStart": 1990,
+    "careerEnd": 2003,
+    "statLine": "137.5 sacks · painted-face pass rusher",
+    "standardRank": 75,
+    "pprRank": 107,
+    "teams": [
+      "MIN",
+      "SEA"
+    ]
+  },
+  {
+    "id": "rjackson",
+    "name": "Rickey Jackson",
+    "position": "LB",
+    "team": "NO",
+    "careerStart": 1981,
+    "careerEnd": 1995,
+    "statLine": "128.0 sacks · Dome Patrol",
+    "standardRank": 76,
+    "pprRank": 110,
+    "teams": [
+      "NO",
+      "SF"
+    ]
+  },
+  {
+    "id": "seau",
+    "name": "Junior Seau",
+    "position": "LB",
+    "team": "SD",
+    "careerStart": 1990,
+    "careerEnd": 2009,
+    "statLine": "1,849 tackles · 12× Pro Bowl",
+    "standardRank": 77,
+    "pprRank": 113,
+    "teams": [
+      "SD",
+      "MIA",
+      "NE"
+    ]
+  },
+  {
+    "id": "mgarrett",
+    "name": "Myles Garrett",
+    "position": "DL",
+    "team": "CLE",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "statLine": "Franchise sack king · 2023 DPOY",
+    "standardRank": 78,
+    "pprRank": 115,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "polamalu",
+    "name": "Troy Polamalu",
+    "position": "DB",
+    "team": "PIT",
+    "careerStart": 2003,
+    "careerEnd": 2014,
+    "statLine": "32 INTs · flying-hair pick-sixes · 2 rings",
+    "standardRank": 79,
+    "pprRank": 116,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "staylor",
+    "name": "Sean Taylor",
+    "position": "DB",
+    "team": "WAS",
+    "careerStart": 2004,
+    "careerEnd": 2007,
+    "statLine": "12 INTs in 4 seasons · feared hitter",
+    "standardRank": 80,
+    "pprRank": 118,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "packers66",
+    "name": "1966 Packers",
+    "position": "DST",
+    "team": "GB",
+    "careerStart": 1966,
+    "careerEnd": 1966,
+    "statLine": "First Super Bowl champs · Lombardi's defense",
+    "standardRank": 81,
+    "pprRank": 117,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "bailey",
+    "name": "Champ Bailey",
+    "position": "DB",
+    "team": "DEN",
+    "careerStart": 1999,
+    "careerEnd": 2013,
+    "statLine": "52 INTs · 12× Pro Bowl shutdown corner",
+    "standardRank": 82,
+    "pprRank": 128,
+    "teams": [
+      "DEN",
+      "WAS"
+    ]
+  },
+  {
+    "id": "jnorman",
+    "name": "Josh Norman",
+    "position": "DB",
+    "team": "CAR",
+    "careerStart": 2012,
+    "careerEnd": 2023,
+    "statLine": "2015 All-Pro · Super Bowl 50 shutdown corner",
+    "standardRank": 83,
+    "pprRank": 82,
+    "teams": [
+      "CAR",
+      "WAS",
+      "SF"
+    ]
+  },
+  {
+    "id": "vikings69",
+    "name": "1969 Vikings",
+    "position": "DST",
+    "team": "MIN",
+    "careerStart": 1969,
+    "careerEnd": 1969,
+    "statLine": "Purple People Eaters · 12–2 juggernaut",
+    "standardRank": 84,
+    "pprRank": 120,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "strahan",
+    "name": "Michael Strahan",
+    "position": "DL",
+    "team": "NYG",
+    "careerStart": 1993,
+    "careerEnd": 2007,
+    "statLine": "141.5 sacks · 22.5 in 2001",
+    "standardRank": 85,
+    "pprRank": 130,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "kshort",
+    "name": "Kawann Short",
+    "position": "DL",
+    "team": "CAR",
+    "careerStart": 2013,
+    "careerEnd": 2020,
+    "statLine": "55.5 sacks · 2015 All-Pro interior rush",
+    "standardRank": 86,
+    "pprRank": 84,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "wwood",
+    "name": "Willie Wood",
+    "position": "DB",
+    "team": "GB",
+    "careerStart": 1960,
+    "careerEnd": 1971,
+    "statLine": "48 INTs · Ice Bowl Packers safety",
+    "standardRank": 87,
+    "pprRank": 125,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "peppers",
+    "name": "Julius Peppers",
+    "position": "DL",
+    "team": "CAR",
+    "careerStart": 2002,
+    "careerEnd": 2018,
+    "statLine": "159.5 sacks · 11× Pro Bowl",
+    "standardRank": 88,
+    "pprRank": 133,
+    "teams": [
+      "CAR",
+      "GB",
+      "CHI"
+    ]
+  },
+  {
+    "id": "jkearse",
+    "name": "Jevon Kearse",
+    "position": "DL",
+    "team": "TEN",
+    "careerStart": 1999,
+    "careerEnd": 2009,
+    "statLine": "The Freak · 14.5 sacks as a rookie",
+    "standardRank": 89,
+    "pprRank": 132,
+    "teams": [
+      "TEN",
+      "PHI"
+    ]
+  },
+  {
+    "id": "howielong",
+    "name": "Howie Long",
+    "position": "DL",
+    "team": "RAI",
+    "careerStart": 1981,
+    "careerEnd": 1993,
+    "statLine": "84.0 sacks · 8× Pro Bowl Raider",
+    "standardRank": 90,
+    "pprRank": 134,
+    "teams": [
+      "RAI"
+    ]
+  },
+  {
+    "id": "sapp",
+    "name": "Warren Sapp",
+    "position": "DL",
+    "team": "TB",
+    "careerStart": 1995,
+    "careerEnd": 2007,
+    "statLine": "96.5 sacks · Tampa 2 wrecking ball",
+    "standardRank": 91,
+    "pprRank": 135,
+    "teams": [
+      "TB",
+      "OAK"
+    ]
+  },
+  {
+    "id": "cmatthews",
+    "name": "Clay Matthews",
+    "position": "LB",
+    "team": "GB",
+    "careerStart": 2009,
+    "careerEnd": 2019,
+    "statLine": "83.5 sacks · Super Bowl XLV",
+    "standardRank": 92,
+    "pprRank": 136,
+    "teams": [
+      "GB",
+      "LAR"
+    ]
+  },
+  {
+    "id": "jramsey",
+    "name": "Jalen Ramsey",
+    "position": "DB",
+    "team": "JAX",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "statLine": "Lockdown corner · All-Pro in Jacksonville and L.A.",
+    "standardRank": 93,
+    "pprRank": 137,
+    "teams": [
+      "JAX",
+      "LAR",
+      "MIA"
+    ]
+  },
+  {
+    "id": "vmiller",
+    "name": "Von Miller",
+    "position": "LB",
+    "team": "DEN",
+    "careerStart": 2011,
+    "careerEnd": 2026,
+    "statLine": "130+ sacks · Super Bowl 50 MVP",
+    "standardRank": 94,
+    "pprRank": 138,
+    "teams": [
+      "DEN",
+      "LAR",
+      "BUF"
+    ]
+  },
+  {
+    "id": "cmatthewsr",
+    "name": "Clay Matthews Sr.",
+    "position": "LB",
+    "team": "CLE",
+    "careerStart": 1978,
+    "careerEnd": 1996,
+    "statLine": "69.5 sacks · Browns ironman linebacker",
+    "standardRank": 95,
+    "pprRank": 85,
+    "teams": [
+      "CLE",
+      "ATL"
+    ]
+  },
+  {
+    "id": "bwillis",
+    "name": "Bill Willis",
+    "position": "DL",
+    "team": "CLE",
+    "careerStart": 1946,
+    "careerEnd": 1953,
+    "statLine": "AAFC/NFL champion · Browns two-way pioneer",
+    "standardRank": 96,
+    "pprRank": 139,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "revis",
+    "name": "Darrelle Revis",
+    "position": "DB",
+    "team": "NYJ",
+    "careerStart": 2007,
+    "careerEnd": 2017,
+    "statLine": "Revis Island · 29 INTs · 2009 All-Pro lockdown",
+    "standardRank": 97,
+    "pprRank": 141,
+    "teams": [
+      "NYJ",
+      "TB",
+      "NE",
+      "KC"
+    ]
+  },
+  {
+    "id": "gatkins",
+    "name": "Geno Atkins",
+    "position": "DL",
+    "team": "CIN",
+    "careerStart": 2010,
+    "careerEnd": 2020,
+    "statLine": "75.5 sacks · interior disruption in Cincinnati",
+    "standardRank": 98,
+    "pprRank": 142,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "smills",
+    "name": "Sam Mills",
+    "position": "LB",
+    "team": "NO",
+    "careerStart": 1986,
+    "careerEnd": 1997,
+    "statLine": "Dome Patrol · Keep Pounding",
+    "standardRank": 99,
+    "pprRank": 143,
+    "teams": [
+      "NO",
+      "ATL",
+      "CAR"
+    ]
+  },
+  {
+    "id": "kuechly",
+    "name": "Luke Kuechly",
+    "position": "LB",
+    "team": "CAR",
+    "careerStart": 2012,
+    "careerEnd": 2019,
+    "statLine": "1,092 tackles in 8 years · 2013 DPOY",
+    "standardRank": 100,
+    "pprRank": 144,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "kriley",
+    "name": "Ken Riley",
+    "position": "DB",
+    "team": "CIN",
+    "careerStart": 1969,
+    "careerEnd": 1983,
+    "statLine": "65 INTs · Bengals' all-time pick leader",
+    "standardRank": 101,
+    "pprRank": 145,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "jhaden",
+    "name": "Joe Haden",
+    "position": "DB",
+    "team": "CLE",
+    "careerStart": 2010,
+    "careerEnd": 2021,
+    "statLine": "34 INTs · Dawg Pound then Steelers starter",
+    "standardRank": 102,
+    "pprRank": 86,
+    "teams": [
+      "CLE",
+      "PIT"
+    ]
+  },
+  {
+    "id": "kmack",
+    "name": "Khalil Mack",
+    "position": "LB",
+    "team": "OAK",
+    "careerStart": 2014,
+    "careerEnd": 2026,
+    "statLine": "100+ sacks · 2016 DPOY runner-up seasons",
+    "standardRank": 103,
+    "pprRank": 147,
+    "teams": [
+      "OAK",
+      "CHI",
+      "LAC"
+    ]
+  },
+  {
+    "id": "cjordan",
+    "name": "Cameron Jordan",
+    "position": "DL",
+    "team": "NO",
+    "careerStart": 2011,
+    "careerEnd": 2026,
+    "statLine": "Saints sack leader · 8× Pro Bowl",
+    "standardRank": 104,
+    "pprRank": 148,
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "mdperry",
+    "name": "Michael Dean Perry",
+    "position": "DL",
+    "team": "CLE",
+    "careerStart": 1988,
+    "careerEnd": 1997,
+    "statLine": "61.0 sacks · 1990s Browns defensive face",
+    "standardRank": 105,
+    "pprRank": 87,
+    "teams": [
+      "CLE",
+      "DEN",
+      "KC"
+    ]
+  },
+  {
+    "id": "bucs02",
+    "name": "2002 Buccaneers",
+    "position": "DST",
+    "team": "TB",
+    "careerStart": 2002,
+    "careerEnd": 2002,
+    "statLine": "Super Bowl XXXVII · 5 INTs off the Raiders",
+    "standardRank": 106,
+    "pprRank": 150,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "jhouston",
+    "name": "Jim Houston",
+    "position": "LB",
+    "team": "CLE",
+    "careerStart": 1960,
+    "careerEnd": 1972,
+    "statLine": "4× Pro Bowl · Browns championship-era linebacker",
+    "standardRank": 107,
+    "pprRank": 88,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "saints09",
+    "name": "2009 Saints",
+    "position": "DST",
+    "team": "NO",
+    "careerStart": 2009,
+    "careerEnd": 2009,
+    "statLine": "Super Bowl XLIV · +11 turnover margin",
+    "standardRank": 108,
+    "pprRank": 151,
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "ham",
+    "name": "Jack Ham",
+    "position": "LB",
+    "team": "PIT",
+    "careerStart": 1971,
+    "careerEnd": 1982,
+    "statLine": "32 INTs from linebacker · 4 Super Bowl rings",
+    "standardRank": 109,
+    "pprRank": 153,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "ccampbell",
+    "name": "Calais Campbell",
+    "position": "DL",
+    "team": "JAX",
+    "careerStart": 2008,
+    "careerEnd": 2026,
+    "statLine": "100+ sacks · 2017 Jaguars defensive engine",
+    "standardRank": 110,
+    "pprRank": 154,
+    "teams": [
+      "JAX",
+      "ARI",
+      "BAL"
+    ]
+  },
+  {
+    "id": "dward",
+    "name": "Denzel Ward",
+    "position": "DB",
+    "team": "CLE",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "statLine": "No. 4 pick lockdown · 17+ INTs in Cleveland",
+    "standardRank": 111,
+    "pprRank": 89,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "hendricks",
+    "name": "Ted Hendricks",
+    "position": "LB",
+    "team": "OAK",
+    "careerStart": 1969,
+    "careerEnd": 1983,
+    "statLine": "The Stork · 4 Super Bowl rings · 26 INTs",
+    "standardRank": 112,
+    "pprRank": 156,
+    "teams": [
+      "OAK",
+      "IND",
+      "GB"
+    ]
+  },
+  {
+    "id": "lparrish",
+    "name": "Lemar Parrish",
+    "position": "DB",
+    "team": "CIN",
+    "careerStart": 1970,
+    "careerEnd": 1982,
+    "statLine": "47 INTs · 8× Pro Bowl return man and corner",
+    "standardRank": 113,
+    "pprRank": 90,
+    "teams": [
+      "CIN",
+      "WAS",
+      "BUF"
+    ]
+  },
+  {
+    "id": "fulcher",
+    "name": "David Fulcher",
+    "position": "DB",
+    "team": "CIN",
+    "careerStart": 1986,
+    "careerEnd": 1993,
+    "statLine": "31 INTs · oversized safety in Super Bowl XXIII",
+    "standardRank": 114,
+    "pprRank": 92,
+    "teams": [
+      "CIN",
+      "LAR"
+    ]
+  },
+  {
+    "id": "atwater",
+    "name": "Steve Atwater",
+    "position": "DB",
+    "team": "DEN",
+    "careerStart": 1989,
+    "careerEnd": 1999,
+    "statLine": "The hit on Christian Okoye · 2 Super Bowl rings",
+    "standardRank": 115,
+    "pprRank": 159,
+    "teams": [
+      "DEN",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "krumrie",
+    "name": "Tim Krumrie",
+    "position": "DL",
+    "team": "CIN",
+    "careerStart": 1983,
+    "careerEnd": 1994,
+    "statLine": "34.5 sacks · Super Bowl XXIII nose tackle",
+    "standardRank": 116,
+    "pprRank": 94,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "tspikes",
+    "name": "Takeo Spikes",
+    "position": "LB",
+    "team": "CIN",
+    "careerStart": 1998,
+    "careerEnd": 2012,
+    "statLine": "1,459 tackles · Bengals-to-Bills tackling machine",
+    "standardRank": 117,
+    "pprRank": 95,
+    "teams": [
+      "CIN",
+      "BUF",
+      "PHI",
+      "SF"
+    ]
+  },
+  {
+    "id": "rdent",
+    "name": "Richard Dent",
+    "position": "DL",
+    "team": "CHI",
+    "careerStart": 1983,
+    "careerEnd": 1997,
+    "statLine": "137.5 sacks · Super Bowl XX MVP",
+    "standardRank": 118,
+    "pprRank": 162,
+    "teams": [
+      "CHI",
+      "SF",
+      "IND",
+      "PHI"
+    ]
+  },
+  {
+    "id": "hdixon",
+    "name": "Hanford Dixon",
+    "position": "DB",
+    "team": "CLE",
+    "careerStart": 1981,
+    "careerEnd": 1989,
+    "statLine": "Coined the Dawg Pound · 26 INTs",
+    "standardRank": 119,
+    "pprRank": 163,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "cdunlap",
+    "name": "Carlos Dunlap",
+    "position": "DL",
+    "team": "CIN",
+    "careerStart": 2010,
+    "careerEnd": 2022,
+    "statLine": "100.5 sacks · Bengals franchise sack royalty",
+    "standardRank": 120,
+    "pprRank": 96,
+    "teams": [
+      "CIN",
+      "SEA"
+    ]
+  },
+  {
+    "id": "tbrackens",
+    "name": "Tony Brackens",
+    "position": "DL",
+    "team": "JAX",
+    "careerStart": 1996,
+    "careerEnd": 2003,
+    "statLine": "55.0 sacks · original Jaguar pass rusher",
+    "standardRank": 121,
+    "pprRank": 165,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "kbulluck",
+    "name": "Keith Bulluck",
+    "position": "LB",
+    "team": "TEN",
+    "careerStart": 2000,
+    "careerEnd": 2010,
+    "statLine": "Titans tackling machine · 2003 All-Pro",
+    "standardRank": 122,
+    "pprRank": 166,
+    "teams": [
+      "TEN",
+      "NYG"
+    ]
+  },
+  {
+    "id": "dmanley",
+    "name": "Dexter Manley",
+    "position": "DL",
+    "team": "WAS",
+    "careerStart": 1981,
+    "careerEnd": 1991,
+    "statLine": "97.5 unofficial sacks · Super Bowl XXII",
+    "standardRank": 123,
+    "pprRank": 167,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "rwilliamslb",
+    "name": "Reggie Williams",
+    "position": "LB",
+    "team": "CIN",
+    "careerStart": 1976,
+    "careerEnd": 1989,
+    "statLine": "23.5 sacks · 16 INTs · two Super Bowl trips",
+    "standardRank": 124,
+    "pprRank": 97,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "randywhite",
+    "name": "Randy White",
+    "position": "DL",
+    "team": "DAL",
+    "careerStart": 1975,
+    "careerEnd": 1988,
+    "statLine": "The Manster · Super Bowl XII co-MVP",
+    "standardRank": 125,
+    "pprRank": 98,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "howley",
+    "name": "Chuck Howley",
+    "position": "LB",
+    "team": "DAL",
+    "careerStart": 1958,
+    "careerEnd": 1973,
+    "statLine": "Only Super Bowl MVP on a losing team · Doomsday",
+    "standardRank": 126,
+    "pprRank": 100,
+    "teams": [
+      "DAL",
+      "CHI"
+    ]
+  },
+  {
+    "id": "dwoodson",
+    "name": "Darren Woodson",
+    "position": "DB",
+    "team": "DAL",
+    "careerStart": 1992,
+    "careerEnd": 2003,
+    "statLine": "23 INTs · 3 Super Bowl rings as Dallas's safety",
+    "standardRank": 127,
+    "pprRank": 103,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "dware",
+    "name": "DeMarcus Ware",
+    "position": "LB",
+    "team": "DAL",
+    "careerStart": 2005,
+    "careerEnd": 2016,
+    "statLine": "138.5 sacks · Cowboys sack king then Super Bowl 50",
+    "standardRank": 128,
+    "pprRank": 105,
+    "teams": [
+      "DAL",
+      "DEN"
+    ]
+  },
+  {
+    "id": "lrjordan",
+    "name": "Lee Roy Jordan",
+    "position": "LB",
+    "team": "DAL",
+    "careerStart": 1963,
+    "careerEnd": 1976,
+    "statLine": "32 INTs · Doomsday middle linebacker",
+    "standardRank": 129,
+    "pprRank": 106,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "charris",
+    "name": "Cliff Harris",
+    "position": "DB",
+    "team": "DAL",
+    "careerStart": 1970,
+    "careerEnd": 1979,
+    "statLine": "Captain Crash · 6 Super Bowl trips",
+    "standardRank": 130,
+    "pprRank": 108,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "tootall",
+    "name": "Ed Too Tall Jones",
+    "position": "DL",
+    "team": "DAL",
+    "careerStart": 1974,
+    "careerEnd": 1989,
+    "statLine": "57.5 sacks unofficial · 3 Super Bowl rings",
+    "standardRank": 131,
+    "pprRank": 109,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "gradishar",
+    "name": "Randy Gradishar",
+    "position": "LB",
+    "team": "DEN",
+    "careerStart": 1974,
+    "careerEnd": 1983,
+    "statLine": "Orange Crush quarterback · 7× Pro Bowl",
+    "standardRank": 132,
+    "pprRank": 112,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "mecklenburg",
+    "name": "Karl Mecklenburg",
+    "position": "LB",
+    "team": "DEN",
+    "careerStart": 1983,
+    "careerEnd": 1994,
+    "statLine": "79.0 sacks · 6× Pro Bowl versatile Bronco",
+    "standardRank": 133,
+    "pprRank": 114,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "lwright",
+    "name": "Louis Wright",
+    "position": "DB",
+    "team": "DEN",
+    "careerStart": 1975,
+    "careerEnd": 1986,
+    "statLine": "26 INTs · Orange Crush lockdown corner",
+    "standardRank": 134,
+    "pprRank": 119,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "pryce",
+    "name": "Trevor Pryce",
+    "position": "DL",
+    "team": "DEN",
+    "careerStart": 1997,
+    "careerEnd": 2010,
+    "statLine": "91.0 sacks · 2 Super Bowl rings in Denver",
+    "standardRank": 135,
+    "pprRank": 121,
+    "teams": [
+      "DEN",
+      "BAL",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "broncos77",
+    "name": "1977 Broncos",
+    "position": "DST",
+    "team": "DEN",
+    "careerStart": 1977,
+    "careerEnd": 1977,
+    "statLine": "Orange Crush · first Broncos Super Bowl defense",
+    "standardRank": 136,
+    "pprRank": 122,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "sfletcher",
+    "name": "Simon Fletcher",
+    "position": "LB",
+    "team": "DEN",
+    "careerStart": 1985,
+    "careerEnd": 1995,
+    "statLine": "97.5 sacks · Broncos all-time sack leader for years",
+    "standardRank": 137,
+    "pprRank": 123,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "jschmidt",
+    "name": "Joe Schmidt",
+    "position": "LB",
+    "team": "DET",
+    "careerStart": 1953,
+    "careerEnd": 1965,
+    "statLine": "10× Pro Bowl · Lions championship middle linebacker",
+    "standardRank": 138,
+    "pprRank": 124,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "karras",
+    "name": "Alex Karras",
+    "position": "DL",
+    "team": "DET",
+    "careerStart": 1958,
+    "careerEnd": 1970,
+    "statLine": "4× Pro Bowl · Fearsome Lions defensive tackle",
+    "standardRank": 139,
+    "pprRank": 126,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "lbarney",
+    "name": "Lem Barney",
+    "position": "DB",
+    "team": "DET",
+    "careerStart": 1967,
+    "careerEnd": 1977,
+    "statLine": "56 INTs · 7× Pro Bowl Lions corner",
+    "standardRank": 140,
+    "pprRank": 127,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "spielman",
+    "name": "Chris Spielman",
+    "position": "LB",
+    "team": "DET",
+    "careerStart": 1988,
+    "careerEnd": 1997,
+    "statLine": "1,294 tackles · 4× Pro Bowl Lions leader",
+    "standardRank": 141,
+    "pprRank": 129,
+    "teams": [
+      "DET",
+      "BUF"
+    ]
+  },
+  {
+    "id": "porcher",
+    "name": "Robert Porcher",
+    "position": "DL",
+    "team": "DET",
+    "careerStart": 1992,
+    "careerEnd": 2004,
+    "statLine": "95.5 sacks · Lions franchise sack king",
+    "standardRank": 142,
+    "pprRank": 131,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "suh",
+    "name": "Ndamukong Suh",
+    "position": "DL",
+    "team": "DET",
+    "careerStart": 2010,
+    "careerEnd": 2022,
+    "statLine": "71.5 sacks · 2010 DROY interior wrecking ball",
+    "standardRank": 143,
+    "pprRank": 140,
+    "teams": [
+      "DET",
+      "MIA",
+      "LAR",
+      "TB"
+    ]
+  },
+  {
+    "id": "dslay",
+    "name": "Darius Slay",
+    "position": "DB",
+    "team": "DET",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "statLine": "27 INTs · Big Play Slay in Detroit and Philly",
+    "standardRank": 144,
+    "pprRank": 146,
+    "teams": [
+      "DET",
+      "PHI"
+    ]
+  },
+  {
+    "id": "hjordan",
+    "name": "Henry Jordan",
+    "position": "DL",
+    "team": "GB",
+    "careerStart": 1957,
+    "careerEnd": 1969,
+    "statLine": "Lombardi-era pass rusher · 7 NFL titles / Super Bowls",
+    "standardRank": 145,
+    "pprRank": 149,
+    "teams": [
+      "GB",
+      "CLE"
+    ]
+  },
+  {
+    "id": "lbutler",
+    "name": "LeRoy Butler",
+    "position": "DB",
+    "team": "GB",
+    "careerStart": 1990,
+    "careerEnd": 2001,
+    "statLine": "38 INTs · invented the Lambeau Leap",
+    "standardRank": 146,
+    "pprRank": 152,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "drobinson",
+    "name": "Dave Robinson",
+    "position": "LB",
+    "team": "GB",
+    "careerStart": 1963,
+    "careerEnd": 1974,
+    "statLine": "12 INTs · Ice Bowl outside linebacker",
+    "standardRank": 147,
+    "pprRank": 155,
+    "teams": [
+      "GB",
+      "WAS"
+    ]
+  },
+  {
+    "id": "timharris",
+    "name": "Tim Harris",
+    "position": "LB",
+    "team": "GB",
+    "careerStart": 1986,
+    "careerEnd": 1995,
+    "statLine": "81.0 sacks · 1989 sack-title Packer",
+    "standardRank": 148,
+    "pprRank": 157,
+    "teams": [
+      "GB",
+      "SF",
+      "PHI"
+    ]
+  },
+  {
+    "id": "kclark",
+    "name": "Kenny Clark",
+    "position": "DL",
+    "team": "GB",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "statLine": "Packers interior anchor · 40+ sacks in Green Bay",
+    "standardRank": 149,
+    "pprRank": 158,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "cushing",
+    "name": "Brian Cushing",
+    "position": "LB",
+    "team": "HOU",
+    "careerStart": 2009,
+    "careerEnd": 2017,
+    "statLine": "2009 DROY · Texans defensive captain",
+    "standardRank": 150,
+    "pprRank": 160,
+    "teams": [
+      "HOU"
+    ]
+  },
+  {
+    "id": "dryans",
+    "name": "DeMeco Ryans",
+    "position": "LB",
+    "team": "HOU",
+    "careerStart": 2006,
+    "careerEnd": 2015,
+    "statLine": "2006 DROY · 727 tackles in Houston and Philly",
+    "standardRank": 151,
+    "pprRank": 161,
+    "teams": [
+      "HOU",
+      "PHI"
+    ]
+  },
+  {
+    "id": "jjoseph",
+    "name": "Johnathan Joseph",
+    "position": "DB",
+    "team": "HOU",
+    "careerStart": 2006,
+    "careerEnd": 2021,
+    "statLine": "32 INTs · Texans shutdown corner for a decade",
+    "standardRank": 152,
+    "pprRank": 164,
+    "teams": [
+      "HOU",
+      "CIN",
+      "TEN"
+    ]
+  },
+  {
+    "id": "mercilus",
+    "name": "Whitney Mercilus",
+    "position": "LB",
+    "team": "HOU",
+    "careerStart": 2012,
+    "careerEnd": 2021,
+    "statLine": "54.0 sacks · J.J. Watt's edge partner",
+    "standardRank": 153,
+    "pprRank": 168,
+    "teams": [
+      "HOU",
+      "GB"
+    ]
+  },
+  {
+    "id": "kjackson",
+    "name": "Kareem Jackson",
+    "position": "DB",
+    "team": "HOU",
+    "careerStart": 2010,
+    "careerEnd": 2024,
+    "statLine": "Texans/Broncos starter · 22 INTs",
+    "standardRank": 154,
+    "pprRank": 169,
+    "teams": [
+      "HOU",
+      "DEN"
+    ]
+  },
+  {
+    "id": "gmarchetti",
+    "name": "Gino Marchetti",
+    "position": "DL",
+    "team": "IND",
+    "careerStart": 1952,
+    "careerEnd": 1966,
+    "statLine": "Colts defensive end gold standard · 2 NFL titles",
+    "standardRank": 155,
+    "pprRank": 170,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "freeney",
+    "name": "Dwight Freeney",
+    "position": "DL",
+    "team": "IND",
+    "careerStart": 2002,
+    "careerEnd": 2017,
+    "statLine": "125.5 sacks · spin-move Hall of Famer",
+    "standardRank": 156,
+    "pprRank": 171,
+    "teams": [
+      "IND",
+      "SD",
+      "ARI",
+      "ATL",
+      "SEA",
+      "DET"
+    ]
+  },
+  {
+    "id": "rmathis",
+    "name": "Robert Mathis",
+    "position": "DL",
+    "team": "IND",
+    "careerStart": 2003,
+    "careerEnd": 2016,
+    "statLine": "123.0 sacks · 2013 sack champion",
+    "standardRank": 157,
+    "pprRank": 172,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "bsanders",
+    "name": "Bob Sanders",
+    "position": "DB",
+    "team": "IND",
+    "careerStart": 2004,
+    "careerEnd": 2011,
+    "statLine": "2007 DPOY · Super Bowl XLI hammer",
+    "standardRank": 158,
+    "pprRank": 173,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "dleonard",
+    "name": "Darius Leonard",
+    "position": "LB",
+    "team": "IND",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "statLine": "The Maniac · 2018 DROY tackling machine",
+    "standardRank": 159,
+    "pprRank": 174,
+    "teams": [
+      "IND",
+      "PHI"
+    ]
+  },
+  {
+    "id": "abethea",
+    "name": "Antoine Bethea",
+    "position": "DB",
+    "team": "IND",
+    "careerStart": 2006,
+    "careerEnd": 2019,
+    "statLine": "25 INTs · Super Bowl XLI starting safety",
+    "standardRank": 160,
+    "pprRank": 175,
+    "teams": [
+      "IND",
+      "SF",
+      "ARI",
+      "NYG"
+    ]
+  },
+  {
+    "id": "telvin",
+    "name": "Telvin Smith",
+    "position": "LB",
+    "team": "JAX",
+    "careerStart": 2014,
+    "careerEnd": 2018,
+    "statLine": "2017 All-Pro · Jaguars rangy tackling machine",
+    "standardRank": 161,
+    "pprRank": 176,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "posluszny",
+    "name": "Paul Posluszny",
+    "position": "LB",
+    "team": "JAX",
+    "careerStart": 2007,
+    "careerEnd": 2017,
+    "statLine": "1,141 tackles · Jaguars defensive captain",
+    "standardRank": 162,
+    "pprRank": 177,
+    "teams": [
+      "JAX",
+      "BUF"
+    ]
+  },
+  {
+    "id": "mstroud",
+    "name": "Marcus Stroud",
+    "position": "DL",
+    "team": "JAX",
+    "careerStart": 2001,
+    "careerEnd": 2010,
+    "statLine": "3× Pro Bowl · early-2000s Jaguars wall",
+    "standardRank": 163,
+    "pprRank": 178,
+    "teams": [
+      "JAX",
+      "BUF"
+    ]
+  },
+  {
+    "id": "jallenjax",
+    "name": "Josh Allen",
+    "position": "DL",
+    "team": "JAX",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "statLine": "Jaguars edge rusher · 50+ sacks in Jacksonville",
+    "standardRank": 164,
+    "pprRank": 179,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "jaguars17",
+    "name": "2017 Jaguars",
+    "position": "DST",
+    "team": "JAX",
+    "careerStart": 2017,
+    "careerEnd": 2017,
+    "statLine": "AFC title game · league-best points allowed",
+    "standardRank": 165,
+    "pprRank": 180,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "dsmithlb",
+    "name": "Daryl Smith",
+    "position": "LB",
+    "team": "JAX",
+    "careerStart": 2004,
+    "careerEnd": 2016,
+    "statLine": "1,087 tackles · original Jaguar then Ravens starter",
+    "standardRank": 166,
+    "pprRank": 181,
+    "teams": [
+      "JAX",
+      "BAL"
+    ]
+  },
+  {
+    "id": "wlanier",
+    "name": "Willie Lanier",
+    "position": "LB",
+    "team": "KC",
+    "careerStart": 1967,
+    "careerEnd": 1977,
+    "statLine": "Contact · Super Bowl IV middle linebacker",
+    "standardRank": 167,
+    "pprRank": 182,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "bbell",
+    "name": "Bobby Bell",
+    "position": "LB",
+    "team": "KC",
+    "careerStart": 1963,
+    "careerEnd": 1974,
+    "statLine": "9× AFL All-Star · Super Bowl IV outside linebacker",
+    "standardRank": 168,
+    "pprRank": 183,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "ethomas",
+    "name": "Emmitt Thomas",
+    "position": "DB",
+    "team": "KC",
+    "careerStart": 1966,
+    "careerEnd": 1978,
+    "statLine": "58 INTs · Chiefs all-time pick leader",
+    "standardRank": 169,
+    "pprRank": 184,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "neilsmith",
+    "name": "Neil Smith",
+    "position": "DL",
+    "team": "KC",
+    "careerStart": 1988,
+    "careerEnd": 2000,
+    "statLine": "104.5 sacks · 6× Pro Bowl then Denver rings",
+    "standardRank": 170,
+    "pprRank": 185,
+    "teams": [
+      "KC",
+      "DEN",
+      "SD"
+    ]
+  },
+  {
+    "id": "jhoustonkc",
+    "name": "Justin Houston",
+    "position": "LB",
+    "team": "KC",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "statLine": "112.0 sacks · 22.0-sack 2014 season",
+    "standardRank": 171,
+    "pprRank": 186,
+    "teams": [
+      "KC",
+      "IND",
+      "BAL",
+      "CAR"
+    ]
+  },
+  {
+    "id": "eberry",
+    "name": "Eric Berry",
+    "position": "DB",
+    "team": "KC",
+    "careerStart": 2010,
+    "careerEnd": 2018,
+    "statLine": "14 INTs · cancer-comeback All-Pro safety",
+    "standardRank": 172,
+    "pprRank": 187,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "loneal",
+    "name": "Leslie O'Neal",
+    "position": "DL",
+    "team": "LAC",
+    "careerStart": 1986,
+    "careerEnd": 1999,
+    "statLine": "132.5 sacks · Chargers sack king",
+    "standardRank": 173,
+    "pprRank": 188,
+    "teams": [
+      "LAC",
+      "SD",
+      "STL"
+    ]
+  },
+  {
+    "id": "jbosa",
+    "name": "Joey Bosa",
+    "position": "DL",
+    "team": "LAC",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "statLine": "70+ sacks · Chargers edge face of the franchise",
+    "standardRank": 174,
+    "pprRank": 189,
+    "teams": [
+      "LAC"
+    ]
+  },
+  {
+    "id": "cromartie",
+    "name": "Antonio Cromartie",
+    "position": "DB",
+    "team": "LAC",
+    "careerStart": 2006,
+    "careerEnd": 2016,
+    "statLine": "31 INTs · 109-yard pick-six · Chargers then Jets",
+    "standardRank": 175,
+    "pprRank": 190,
+    "teams": [
+      "LAC",
+      "SD",
+      "NYJ",
+      "ARI",
+      "IND"
+    ]
+  },
+  {
+    "id": "jammer",
+    "name": "Quentin Jammer",
+    "position": "DB",
+    "team": "LAC",
+    "careerStart": 2002,
+    "careerEnd": 2013,
+    "statLine": "21 INTs · Chargers ironman corner",
+    "standardRank": 176,
+    "pprRank": 191,
+    "teams": [
+      "LAC",
+      "SD",
+      "DEN"
+    ]
+  },
+  {
+    "id": "wlowe",
+    "name": "Woodrow Lowe",
+    "position": "LB",
+    "team": "LAC",
+    "careerStart": 1976,
+    "careerEnd": 1986,
+    "statLine": "21 INTs · Air Coryell-era Chargers linebacker",
+    "standardRank": 177,
+    "pprRank": 192,
+    "teams": [
+      "LAC",
+      "SD"
+    ]
+  },
+  {
+    "id": "mingram",
+    "name": "Melvin Ingram",
+    "position": "DL",
+    "team": "LAC",
+    "careerStart": 2012,
+    "careerEnd": 2022,
+    "statLine": "50.5 sacks · 2017 All-Pro Chargers rusher",
+    "standardRank": 178,
+    "pprRank": 193,
+    "teams": [
+      "LAC",
+      "PIT",
+      "MIA",
+      "KC"
+    ]
+  },
+  {
+    "id": "jtayloridp",
+    "name": "Jason Taylor",
+    "position": "DL",
+    "team": "MIA",
+    "careerStart": 1997,
+    "careerEnd": 2011,
+    "statLine": "139.5 sacks · 2006 DPOY",
+    "standardRank": 179,
+    "pprRank": 194,
+    "teams": [
+      "MIA",
+      "WAS",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "zthomas",
+    "name": "Zach Thomas",
+    "position": "LB",
+    "team": "MIA",
+    "careerStart": 1996,
+    "careerEnd": 2008,
+    "statLine": "1,734 tackles · 7× All-Pro Dolphins leader",
+    "standardRank": 180,
+    "pprRank": 195,
+    "teams": [
+      "MIA",
+      "DAL"
+    ]
+  },
+  {
+    "id": "buoniconti",
+    "name": "Nick Buoniconti",
+    "position": "LB",
+    "team": "MIA",
+    "careerStart": 1962,
+    "careerEnd": 1976,
+    "statLine": "No-Name Defense captain · 2 Super Bowl rings",
+    "standardRank": 181,
+    "pprRank": 196,
+    "teams": [
+      "MIA",
+      "NE"
+    ]
+  },
+  {
+    "id": "jscott",
+    "name": "Jake Scott",
+    "position": "DB",
+    "team": "MIA",
+    "careerStart": 1970,
+    "careerEnd": 1978,
+    "statLine": "Super Bowl VII MVP · 49 INTs",
+    "standardRank": 182,
+    "pprRank": 197,
+    "teams": [
+      "MIA",
+      "WAS"
+    ]
+  },
+  {
+    "id": "cwake",
+    "name": "Cameron Wake",
+    "position": "DL",
+    "team": "MIA",
+    "careerStart": 2009,
+    "careerEnd": 2019,
+    "statLine": "100.5 sacks · CFL-to-NFL edge star",
+    "standardRank": 183,
+    "pprRank": 198,
+    "teams": [
+      "MIA",
+      "TEN"
+    ]
+  },
+  {
+    "id": "xhoward",
+    "name": "Xavien Howard",
+    "position": "DB",
+    "team": "MIA",
+    "careerStart": 2016,
+    "careerEnd": 2023,
+    "statLine": "29 INTs · 2020 pick champion",
+    "standardRank": 184,
+    "pprRank": 199,
+    "teams": [
+      "MIA"
+    ]
+  },
+  {
+    "id": "dolphins72",
+    "name": "1972 Dolphins",
+    "position": "DST",
+    "team": "MIA",
+    "careerStart": 1972,
+    "careerEnd": 1972,
+    "statLine": "Perfect season · No-Name Defense",
+    "standardRank": 185,
+    "pprRank": 200,
+    "teams": [
+      "MIA"
+    ]
+  },
+  {
+    "id": "celler",
+    "name": "Carl Eller",
+    "position": "DL",
+    "team": "MIN",
+    "careerStart": 1964,
+    "careerEnd": 1979,
+    "statLine": "Purple People Eaters · 6× First-team All-Pro",
+    "standardRank": 186,
+    "pprRank": 201,
+    "teams": [
+      "MIN",
+      "SEA"
+    ]
+  },
+  {
+    "id": "jmarshall",
+    "name": "Jim Marshall",
+    "position": "DL",
+    "team": "MIN",
+    "careerStart": 1960,
+    "careerEnd": 1979,
+    "statLine": "282 consecutive starts · Purple People Eaters ironman",
+    "standardRank": 187,
+    "pprRank": 202,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "doleman",
+    "name": "Chris Doleman",
+    "position": "DL",
+    "team": "MIN",
+    "careerStart": 1985,
+    "careerEnd": 1999,
+    "statLine": "150.5 sacks · 8× Pro Bowl",
+    "standardRank": 188,
+    "pprRank": 203,
+    "teams": [
+      "MIN",
+      "ATL",
+      "SF"
+    ]
+  },
+  {
+    "id": "jbrowner",
+    "name": "Joey Browner",
+    "position": "DB",
+    "team": "MIN",
+    "careerStart": 1983,
+    "careerEnd": 1992,
+    "statLine": "37 INTs · 6× Pro Bowl Vikings safety",
+    "standardRank": 189,
+    "pprRank": 204,
+    "teams": [
+      "MIN",
+      "TB"
+    ]
+  },
+  {
+    "id": "hsmith",
+    "name": "Harrison Smith",
+    "position": "DB",
+    "team": "MIN",
+    "careerStart": 2012,
+    "careerEnd": 2026,
+    "statLine": "35+ INTs · Vikings all-time safety",
+    "standardRank": 190,
+    "pprRank": 205,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "greenway",
+    "name": "Chad Greenway",
+    "position": "LB",
+    "team": "MIN",
+    "careerStart": 2006,
+    "careerEnd": 2016,
+    "statLine": "1,100 tackles · Vikings defensive captain",
+    "standardRank": 191,
+    "pprRank": 206,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "tylaw",
+    "name": "Ty Law",
+    "position": "DB",
+    "team": "NE",
+    "careerStart": 1995,
+    "careerEnd": 2009,
+    "statLine": "53 INTs · 3 Super Bowl rings · Brady-era lockdown",
+    "standardRank": 192,
+    "pprRank": 207,
+    "teams": [
+      "NE",
+      "NYJ",
+      "KC",
+      "DEN"
+    ]
+  },
+  {
+    "id": "bruschi",
+    "name": "Tedy Bruschi",
+    "position": "LB",
+    "team": "NE",
+    "careerStart": 1996,
+    "careerEnd": 2008,
+    "statLine": "3 Super Bowl rings · stroke-comeback captain",
+    "standardRank": 193,
+    "pprRank": 208,
+    "teams": [
+      "NE"
+    ]
+  },
+  {
+    "id": "mcginest",
+    "name": "Willie McGinest",
+    "position": "LB",
+    "team": "NE",
+    "careerStart": 1994,
+    "careerEnd": 2008,
+    "statLine": "86.0 sacks · 3 Super Bowl rings",
+    "standardRank": 194,
+    "pprRank": 209,
+    "teams": [
+      "NE",
+      "CLE"
+    ]
+  },
+  {
+    "id": "seymour",
+    "name": "Richard Seymour",
+    "position": "DL",
+    "team": "NE",
+    "careerStart": 2001,
+    "careerEnd": 2012,
+    "statLine": "57.5 sacks · 3 Super Bowl rings · 7× Pro Bowl",
+    "standardRank": 195,
+    "pprRank": 210,
+    "teams": [
+      "NE",
+      "OAK"
+    ]
+  },
+  {
+    "id": "wilfork",
+    "name": "Vince Wilfork",
+    "position": "DL",
+    "team": "NE",
+    "careerStart": 2004,
+    "careerEnd": 2016,
+    "statLine": "2 Super Bowl rings · 5× Pro Bowl nose tackle",
+    "standardRank": 196,
+    "pprRank": 211,
+    "teams": [
+      "NE",
+      "HOU"
+    ]
+  },
+  {
+    "id": "milloy",
+    "name": "Lawyer Milloy",
+    "position": "DB",
+    "team": "NE",
+    "careerStart": 1996,
+    "careerEnd": 2012,
+    "statLine": "25 INTs · Super Bowl XXXVI starting safety",
+    "standardRank": 197,
+    "pprRank": 212,
+    "teams": [
+      "NE",
+      "BUF",
+      "ATL",
+      "SEA"
+    ]
+  },
+  {
+    "id": "rharrison",
+    "name": "Rodney Harrison",
+    "position": "DB",
+    "team": "NE",
+    "careerStart": 1994,
+    "careerEnd": 2008,
+    "statLine": "34 INTs · 30.5 sacks · 2 rings in New England",
+    "standardRank": 198,
+    "pprRank": 213,
+    "teams": [
+      "NE",
+      "SD"
+    ]
+  },
+  {
+    "id": "patriots03",
+    "name": "2003 Patriots",
+    "position": "DST",
+    "team": "NE",
+    "careerStart": 2003,
+    "careerEnd": 2003,
+    "statLine": "Super Bowl XXXVIII · 24 INTs that year",
+    "standardRank": 199,
+    "pprRank": 214,
+    "teams": [
+      "NE"
+    ]
+  },
+  {
+    "id": "vrabel",
+    "name": "Mike Vrabel",
+    "position": "LB",
+    "team": "NE",
+    "careerStart": 1997,
+    "careerEnd": 2010,
+    "statLine": "57.0 sacks · 3 Super Bowl rings · goal-line TD specialist",
+    "standardRank": 200,
+    "pprRank": 215,
+    "teams": [
+      "NE",
+      "PIT",
+      "KC"
+    ]
+  },
+  {
+    "id": "swilling",
+    "name": "Pat Swilling",
+    "position": "LB",
+    "team": "NO",
+    "careerStart": 1986,
+    "careerEnd": 1998,
+    "statLine": "107.5 sacks · 1991 DPOY · Dome Patrol",
+    "standardRank": 201,
+    "pprRank": 216,
+    "teams": [
+      "NO",
+      "DET",
+      "OAK"
+    ]
+  },
+  {
+    "id": "vjohnson",
+    "name": "Vaughan Johnson",
+    "position": "LB",
+    "team": "NO",
+    "careerStart": 1986,
+    "careerEnd": 1994,
+    "statLine": "Dome Patrol inside linebacker · 4× Pro Bowl",
+    "standardRank": 202,
+    "pprRank": 217,
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "dsharper",
+    "name": "Darren Sharper",
+    "position": "DB",
+    "team": "NO",
+    "careerStart": 1997,
+    "careerEnd": 2010,
+    "statLine": "63 INTs · Packers/Vikings/Saints ballhawk",
+    "standardRank": 203,
+    "pprRank": 218,
+    "teams": [
+      "NO",
+      "GB",
+      "MIN"
+    ]
+  },
+  {
+    "id": "mlattimore",
+    "name": "Marshon Lattimore",
+    "position": "DB",
+    "team": "NO",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "statLine": "2017 DROY · Saints lockdown corner",
+    "standardRank": 204,
+    "pprRank": 219,
+    "teams": [
+      "NO",
+      "WAS"
+    ]
+  },
+  {
+    "id": "lglover",
+    "name": "La'Roi Glover",
+    "position": "DL",
+    "team": "NO",
+    "careerStart": 1996,
+    "careerEnd": 2008,
+    "statLine": "83.5 sacks · 2000 sack champion in New Orleans",
+    "standardRank": 205,
+    "pprRank": 220,
+    "teams": [
+      "NO",
+      "DAL",
+      "STL"
+    ]
+  },
+  {
+    "id": "dwaymer",
+    "name": "Dave Waymer",
+    "position": "DB",
+    "team": "NO",
+    "careerStart": 1980,
+    "careerEnd": 1992,
+    "statLine": "48 INTs · Saints all-time pick leader",
+    "standardRank": 206,
+    "pprRank": 221,
+    "teams": [
+      "NO",
+      "SF",
+      "LAR"
+    ]
+  },
+  {
+    "id": "hcarson",
+    "name": "Harry Carson",
+    "position": "LB",
+    "team": "NYG",
+    "careerStart": 1976,
+    "careerEnd": 1988,
+    "statLine": "9× Pro Bowl · Super Bowl XXI captain",
+    "standardRank": 207,
+    "pprRank": 222,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "tunnell",
+    "name": "Emlen Tunnell",
+    "position": "DB",
+    "team": "NYG",
+    "careerStart": 1948,
+    "careerEnd": 1961,
+    "statLine": "79 INTs · first Black Giant Hall of Famer",
+    "standardRank": 208,
+    "pprRank": 223,
+    "teams": [
+      "NYG",
+      "GB"
+    ]
+  },
+  {
+    "id": "cbanks",
+    "name": "Carl Banks",
+    "position": "LB",
+    "team": "NYG",
+    "careerStart": 1984,
+    "careerEnd": 1995,
+    "statLine": "39.5 sacks · 2 Super Bowl rings with LT",
+    "standardRank": 209,
+    "pprRank": 224,
+    "teams": [
+      "NYG",
+      "WAS",
+      "CLE"
+    ]
+  },
+  {
+    "id": "jpp",
+    "name": "Jason Pierre-Paul",
+    "position": "DL",
+    "team": "NYG",
+    "careerStart": 2010,
+    "careerEnd": 2023,
+    "statLine": "94.5 sacks · Super Bowl XLVI then Bucs ring",
+    "standardRank": 210,
+    "pprRank": 225,
+    "teams": [
+      "NYG",
+      "TB",
+      "BAL",
+      "MIA"
+    ]
+  },
+  {
+    "id": "giants86",
+    "name": "1986 Giants",
+    "position": "DST",
+    "team": "NYG",
+    "careerStart": 1986,
+    "careerEnd": 1986,
+    "statLine": "Super Bowl XXI · LT's MVP defense",
+    "standardRank": 211,
+    "pprRank": 226,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "shuff",
+    "name": "Sam Huff",
+    "position": "LB",
+    "team": "NYG",
+    "careerStart": 1956,
+    "careerEnd": 1969,
+    "statLine": "30 INTs · first TV-famous middle linebacker",
+    "standardRank": 212,
+    "pprRank": 227,
+    "teams": [
+      "NYG",
+      "WAS"
+    ]
+  },
+  {
+    "id": "jtuck",
+    "name": "Justin Tuck",
+    "position": "DL",
+    "team": "NYG",
+    "careerStart": 2005,
+    "careerEnd": 2015,
+    "statLine": "66.5 sacks · 2 Super Bowl rings",
+    "standardRank": 213,
+    "pprRank": 228,
+    "teams": [
+      "NYG",
+      "OAK"
+    ]
+  },
+  {
+    "id": "dawkins",
+    "name": "Brian Dawkins",
+    "position": "DB",
+    "team": "PHI",
+    "careerStart": 1996,
+    "careerEnd": 2011,
+    "statLine": "37 INTs · 26 sacks · Weapon X in Philly",
+    "standardRank": 214,
+    "pprRank": 229,
+    "teams": [
+      "PHI",
+      "DEN"
+    ]
+  },
+  {
+    "id": "bednarik",
+    "name": "Chuck Bednarik",
+    "position": "LB",
+    "team": "PHI",
+    "careerStart": 1949,
+    "careerEnd": 1962,
+    "statLine": "Concrete Charlie · last of the 60-minute men",
+    "standardRank": 215,
+    "pprRank": 230,
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "trotter",
+    "name": "Jeremiah Trotter",
+    "position": "LB",
+    "team": "PHI",
+    "careerStart": 1998,
+    "careerEnd": 2009,
+    "statLine": "4× Pro Bowl · Eagles middle-linebacker identity",
+    "standardRank": 216,
+    "pprRank": 231,
+    "teams": [
+      "PHI",
+      "WAS"
+    ]
+  },
+  {
+    "id": "eallen",
+    "name": "Eric Allen",
+    "position": "DB",
+    "team": "PHI",
+    "careerStart": 1988,
+    "careerEnd": 2001,
+    "statLine": "54 INTs · 6× Pro Bowl Eagles corner",
+    "standardRank": 217,
+    "pprRank": 232,
+    "teams": [
+      "PHI",
+      "NO",
+      "OAK"
+    ]
+  },
+  {
+    "id": "fcox",
+    "name": "Fletcher Cox",
+    "position": "DL",
+    "team": "PHI",
+    "careerStart": 2012,
+    "careerEnd": 2023,
+    "statLine": "70.0 sacks · Super Bowl LII interior star",
+    "standardRank": 218,
+    "pprRank": 233,
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "sjoyner",
+    "name": "Seth Joyner",
+    "position": "LB",
+    "team": "PHI",
+    "careerStart": 1986,
+    "careerEnd": 1998,
+    "statLine": "52.0 sacks · Buddy Ryan Eagles enforcer",
+    "standardRank": 219,
+    "pprRank": 234,
+    "teams": [
+      "PHI",
+      "ARI",
+      "GB",
+      "DEN"
+    ]
+  },
+  {
+    "id": "rsherman",
+    "name": "Richard Sherman",
+    "position": "DB",
+    "team": "SEA",
+    "careerStart": 2011,
+    "careerEnd": 2021,
+    "statLine": "37 INTs · Legion of Boom lockdown",
+    "standardRank": 220,
+    "pprRank": 235,
+    "teams": [
+      "SEA",
+      "SF"
+    ]
+  },
+  {
+    "id": "ethomass",
+    "name": "Earl Thomas",
+    "position": "DB",
+    "team": "SEA",
+    "careerStart": 2010,
+    "careerEnd": 2019,
+    "statLine": "32 INTs · Legion of Boom center fielder",
+    "standardRank": 221,
+    "pprRank": 236,
+    "teams": [
+      "SEA",
+      "BAL"
+    ]
+  },
+  {
+    "id": "keasley",
+    "name": "Kenny Easley",
+    "position": "DB",
+    "team": "SEA",
+    "careerStart": 1981,
+    "careerEnd": 1987,
+    "statLine": "32 INTs · 1984 Seahawks DPOY safety",
+    "standardRank": 222,
+    "pprRank": 237,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "ckenney",
+    "name": "Cortez Kennedy",
+    "position": "DL",
+    "team": "SEA",
+    "careerStart": 1990,
+    "careerEnd": 2000,
+    "statLine": "58.0 sacks · 1992 DPOY on a 2–14 team",
+    "standardRank": 223,
+    "pprRank": 238,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "bwagner",
+    "name": "Bobby Wagner",
+    "position": "LB",
+    "team": "SEA",
+    "careerStart": 2012,
+    "careerEnd": 2026,
+    "statLine": "1,800+ tackles · Super Bowl XLVIII captain",
+    "standardRank": 224,
+    "pprRank": 239,
+    "teams": [
+      "SEA",
+      "LAR",
+      "WAS"
+    ]
+  },
+  {
+    "id": "jacobgreen",
+    "name": "Jacob Green",
+    "position": "DL",
+    "team": "SEA",
+    "careerStart": 1980,
+    "careerEnd": 1992,
+    "statLine": "115.5 sacks · original Seahawks pass rusher",
+    "standardRank": 225,
+    "pprRank": 240,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "kchancellor",
+    "name": "Kam Chancellor",
+    "position": "DB",
+    "team": "SEA",
+    "careerStart": 2010,
+    "careerEnd": 2017,
+    "statLine": "Legion of Boom enforcer · Super Bowl XLVIII",
+    "standardRank": 226,
+    "pprRank": 241,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "chaley",
+    "name": "Charles Haley",
+    "position": "DL",
+    "team": "SF",
+    "careerStart": 1986,
+    "careerEnd": 1999,
+    "statLine": "100.5 sacks · 5 Super Bowl rings in SF and Dallas",
+    "standardRank": 227,
+    "pprRank": 242,
+    "teams": [
+      "SF",
+      "DAL"
+    ]
+  },
+  {
+    "id": "pwillis",
+    "name": "Patrick Willis",
+    "position": "LB",
+    "team": "SF",
+    "careerStart": 2007,
+    "careerEnd": 2014,
+    "statLine": "950 tackles · 5× First-team All-Pro",
+    "standardRank": 228,
+    "pprRank": 243,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "nbowman",
+    "name": "NaVorro Bowman",
+    "position": "LB",
+    "team": "SF",
+    "careerStart": 2010,
+    "careerEnd": 2017,
+    "statLine": "Harbaugh-era tackling machine · 3× All-Pro",
+    "standardRank": 229,
+    "pprRank": 244,
+    "teams": [
+      "SF",
+      "OAK"
+    ]
+  },
+  {
+    "id": "jjohnsondb",
+    "name": "Jimmy Johnson",
+    "position": "DB",
+    "team": "SF",
+    "careerStart": 1961,
+    "careerEnd": 1976,
+    "statLine": "47 INTs · 49ers shutdown corner Hall of Famer",
+    "standardRank": 230,
+    "pprRank": 245,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "nbosa",
+    "name": "Nick Bosa",
+    "position": "DL",
+    "team": "SF",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "statLine": "2022 DPOY · Super Bowl LVIII pass rush",
+    "standardRank": 231,
+    "pprRank": 246,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "fwarner",
+    "name": "Fred Warner",
+    "position": "LB",
+    "team": "SF",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "statLine": "All-Pro coverage linebacker · 49ers defensive quarterback",
+    "standardRank": 232,
+    "pprRank": 247,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "dbrooks",
+    "name": "Derrick Brooks",
+    "position": "LB",
+    "team": "TB",
+    "careerStart": 1995,
+    "careerEnd": 2008,
+    "statLine": "1,713 tackles · 2002 DPOY · Super Bowl XXXVII",
+    "standardRank": 233,
+    "pprRank": 248,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "selmon",
+    "name": "Lee Roy Selmon",
+    "position": "DL",
+    "team": "TB",
+    "careerStart": 1976,
+    "careerEnd": 1984,
+    "statLine": "78.5 unofficial sacks · original Buccaneer great",
+    "standardRank": 234,
+    "pprRank": 249,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "jlynchdb",
+    "name": "John Lynch",
+    "position": "DB",
+    "team": "TB",
+    "careerStart": 1993,
+    "careerEnd": 2007,
+    "statLine": "26 INTs · Tampa 2 then Broncos Pro Bowls",
+    "standardRank": 235,
+    "pprRank": 250,
+    "teams": [
+      "TB",
+      "DEN"
+    ]
+  },
+  {
+    "id": "rbarber",
+    "name": "Ronde Barber",
+    "position": "DB",
+    "team": "TB",
+    "careerStart": 1997,
+    "careerEnd": 2012,
+    "statLine": "47 INTs · 28 sacks · Super Bowl XXXVII",
+    "standardRank": 236,
+    "pprRank": 251,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "srice",
+    "name": "Simeon Rice",
+    "position": "DL",
+    "team": "TB",
+    "careerStart": 1996,
+    "careerEnd": 2007,
+    "statLine": "122.0 sacks · Super Bowl XXXVII edge rusher",
+    "standardRank": 237,
+    "pprRank": 252,
+    "teams": [
+      "TB",
+      "ARI"
+    ]
+  },
+  {
+    "id": "ldavid",
+    "name": "Lavonte David",
+    "position": "LB",
+    "team": "TB",
+    "careerStart": 2012,
+    "careerEnd": 2026,
+    "statLine": "1,500+ tackles · Bucs coverage linebacker",
+    "standardRank": 238,
+    "pprRank": 253,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "ebethea",
+    "name": "Elvin Bethea",
+    "position": "DL",
+    "team": "TEN",
+    "careerStart": 1968,
+    "careerEnd": 1983,
+    "statLine": "105.0 unofficial sacks · Oilers Hall of Fame rusher",
+    "standardRank": 239,
+    "pprRank": 254,
+    "teams": [
+      "TEN"
+    ]
+  },
+  {
+    "id": "rchildress",
+    "name": "Ray Childress",
+    "position": "DL",
+    "team": "TEN",
+    "careerStart": 1985,
+    "careerEnd": 1996,
+    "statLine": "76.5 sacks · Oilers/Titans defensive face",
+    "standardRank": 240,
+    "pprRank": 255,
+    "teams": [
+      "TEN",
+      "DAL"
+    ]
+  },
+  {
+    "id": "bbishop",
+    "name": "Blaine Bishop",
+    "position": "DB",
+    "team": "TEN",
+    "careerStart": 1993,
+    "careerEnd": 2002,
+    "statLine": "5× Pro Bowl · Oilers/Titans hitting safety",
+    "standardRank": 241,
+    "pprRank": 256,
+    "teams": [
+      "TEN",
+      "PHI"
+    ]
+  },
+  {
+    "id": "srolle",
+    "name": "Samari Rolle",
+    "position": "DB",
+    "team": "TEN",
+    "careerStart": 1998,
+    "careerEnd": 2008,
+    "statLine": "31 INTs · Titans then Ravens starter",
+    "standardRank": 242,
+    "pprRank": 257,
+    "teams": [
+      "TEN",
+      "BAL"
+    ]
+  },
+  {
+    "id": "jcasey",
+    "name": "Jurrell Casey",
+    "position": "DL",
+    "team": "TEN",
+    "careerStart": 2011,
+    "careerEnd": 2020,
+    "statLine": "51.0 sacks · 5× Pro Bowl Titans tackle",
+    "standardRank": 243,
+    "pprRank": 258,
+    "teams": [
+      "TEN",
+      "DEN"
+    ]
+  },
+  {
+    "id": "cfinnegan",
+    "name": "Cortland Finnegan",
+    "position": "DB",
+    "team": "TEN",
+    "careerStart": 2006,
+    "careerEnd": 2015,
+    "statLine": "18 INTs · 2008 All-Pro Titans corner",
+    "standardRank": 244,
+    "pprRank": 259,
+    "teams": [
+      "TEN",
+      "STL",
+      "MIA",
+      "CAR"
+    ]
+  },
+  {
+    "id": "dgreen",
+    "name": "Darrell Green",
+    "position": "DB",
+    "team": "WAS",
+    "careerStart": 1983,
+    "careerEnd": 2002,
+    "statLine": "54 INTs · 20 seasons of lockdown speed",
+    "standardRank": 245,
+    "pprRank": 260,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "hanburger",
+    "name": "Chris Hanburger",
+    "position": "LB",
+    "team": "WAS",
+    "careerStart": 1965,
+    "careerEnd": 1978,
+    "statLine": "9× Pro Bowl · Over-the-Hill Gang captain",
+    "standardRank": 246,
+    "pprRank": 261,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "lfletcher",
+    "name": "London Fletcher",
+    "position": "LB",
+    "team": "WAS",
+    "careerStart": 1998,
+    "careerEnd": 2013,
+    "statLine": "2,039 tackles · ironman in St. Louis, Buffalo, Washington",
+    "standardRank": 247,
+    "pprRank": 262,
+    "teams": [
+      "WAS",
+      "STL",
+      "BUF"
+    ]
+  },
+  {
+    "id": "rkerrigan",
+    "name": "Ryan Kerrigan",
+    "position": "LB",
+    "team": "WAS",
+    "careerStart": 2011,
+    "careerEnd": 2021,
+    "statLine": "95.5 sacks · Washington franchise sack king",
+    "standardRank": 248,
+    "pprRank": 263,
+    "teams": [
+      "WAS",
+      "PHI"
+    ]
+  },
+  {
+    "id": "mcoleman",
+    "name": "Monte Coleman",
+    "position": "LB",
+    "team": "WAS",
+    "careerStart": 1979,
+    "careerEnd": 1994,
+    "statLine": "56.5 sacks unofficial · 3 Super Bowl rings",
+    "standardRank": 249,
+    "pprRank": 264,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "klecko",
+    "name": "Joe Klecko",
+    "position": "DL",
+    "team": "NYJ",
+    "careerStart": 1977,
+    "careerEnd": 1988,
+    "statLine": "New York Sack Exchange · Pro Bowl at three spots",
+    "standardRank": 250,
+    "pprRank": 265,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "gastineau",
+    "name": "Mark Gastineau",
+    "position": "DL",
+    "team": "NYJ",
+    "careerStart": 1979,
+    "careerEnd": 1988,
+    "statLine": "74.0 sacks · 1983 unofficial 19-sack year",
+    "standardRank": 251,
+    "pprRank": 266,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "molewis",
+    "name": "Mo Lewis",
+    "position": "LB",
+    "team": "NYJ",
+    "careerStart": 1991,
+    "careerEnd": 2003,
+    "statLine": "1,226 tackles · hit that changed the Patriots' QB",
+    "standardRank": 252,
+    "pprRank": 267,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "dharris",
+    "name": "David Harris",
+    "position": "LB",
+    "team": "NYJ",
+    "careerStart": 2007,
+    "careerEnd": 2017,
+    "statLine": "1,089 tackles · Jets defensive captain",
+    "standardRank": 253,
+    "pprRank": 268,
+    "teams": [
+      "NYJ",
+      "NE"
+    ]
+  },
+  {
+    "id": "sellis",
+    "name": "Shaun Ellis",
+    "position": "DL",
+    "team": "NYJ",
+    "careerStart": 2000,
+    "careerEnd": 2012,
+    "statLine": "73.5 sacks · Jets edge staple of the 2000s",
+    "standardRank": 254,
+    "pprRank": 269,
+    "teams": [
+      "NYJ",
+      "NE"
+    ]
+  },
+  {
+    "id": "jets68",
+    "name": "1968 Jets",
+    "position": "DST",
+    "team": "NYJ",
+    "careerStart": 1968,
+    "careerEnd": 1968,
+    "statLine": "Super Bowl III · Joe Namath's guarantee defense",
+    "standardRank": 255,
+    "pprRank": 270,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "studwell",
+    "name": "Scott Studwell",
+    "position": "LB",
+    "team": "MIN",
+    "careerStart": 1977,
+    "careerEnd": 1990,
+    "statLine": "1,981 unofficial tackles · Vikings linebacker ironman",
+    "standardRank": 256,
+    "pprRank": 271,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "ekendricks",
+    "name": "Eric Kendricks",
+    "position": "LB",
+    "team": "MIN",
+    "careerStart": 2015,
+    "careerEnd": 2026,
+    "statLine": "2019 All-Pro · Vikings coverage linebacker",
+    "standardRank": 257,
+    "pprRank": 272,
+    "teams": [
+      "MIN",
+      "LAC",
+      "DAL"
+    ]
+  },
+  {
+    "id": "kjwright",
+    "name": "K.J. Wright",
+    "position": "LB",
+    "team": "SEA",
+    "careerStart": 2011,
+    "careerEnd": 2021,
+    "statLine": "Legion of Boom linebacker · Super Bowl XLVIII",
+    "standardRank": 258,
+    "pprRank": 273,
+    "teams": [
+      "SEA",
+      "LV"
+    ]
+  },
+  {
+    "id": "chadbrownlb",
+    "name": "Chad Brown",
+    "position": "LB",
+    "team": "SEA",
+    "careerStart": 1993,
+    "careerEnd": 2007,
+    "statLine": "79.0 sacks · Steelers then Seahawks Pro Bowler",
+    "standardRank": 259,
+    "pprRank": 274,
+    "teams": [
+      "SEA",
+      "PIT",
+      "NE"
+    ]
+  },
+  {
+    "id": "gbingham",
+    "name": "Gregg Bingham",
+    "position": "LB",
+    "team": "TEN",
+    "careerStart": 1973,
+    "careerEnd": 1984,
+    "statLine": "Oilers tackling machine · 1970s Houston defense",
+    "standardRank": 260,
+    "pprRank": 275,
+    "teams": [
+      "TEN"
+    ]
+  },
+  {
+    "id": "zbrownlb",
+    "name": "Zach Brown",
+    "position": "LB",
+    "team": "TEN",
+    "careerStart": 2012,
+    "careerEnd": 2019,
+    "statLine": "2016 All-Pro tackler · Titans then Redskins",
+    "standardRank": 261,
+    "pprRank": 276,
+    "teams": [
+      "TEN",
+      "BUF",
+      "WAS",
+      "PHI"
+    ]
+  },
+  {
+    "id": "ctillman",
+    "name": "Charles Tillman",
+    "position": "DB",
+    "team": "CHI",
+    "careerStart": 2003,
+    "careerEnd": 2015,
+    "statLine": "38 INTs · Peanut punch specialist",
+    "standardRank": 262,
+    "pprRank": 277,
+    "teams": [
+      "CHI",
+      "CAR"
+    ]
+  },
+  {
+    "id": "gfencik",
+    "name": "Gary Fencik",
+    "position": "DB",
+    "team": "CHI",
+    "careerStart": 1976,
+    "careerEnd": 1987,
+    "statLine": "38 INTs · 1985 Bears safety captain",
+    "standardRank": 263,
+    "pprRank": 278,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "rashean",
+    "name": "Rashean Mathis",
+    "position": "DB",
+    "team": "JAX",
+    "careerStart": 2003,
+    "careerEnd": 2015,
+    "statLine": "32 INTs · Jaguars all-time pick leader",
+    "standardRank": 264,
+    "pprRank": 279,
+    "teams": [
+      "JAX",
+      "DET"
+    ]
+  },
+  {
+    "id": "cardinals08",
+    "name": "2008 Cardinals",
+    "position": "DST",
+    "team": "ARI",
+    "careerStart": 2008,
+    "careerEnd": 2008,
+    "statLine": "Super Bowl XLIII · first NFC title in the desert",
+    "standardRank": 265,
+    "pprRank": 280,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "falcons77",
+    "name": "1977 Falcons",
+    "position": "DST",
+    "team": "ATL",
+    "careerStart": 1977,
+    "careerEnd": 1977,
+    "statLine": "Grits Blitz · 129 points allowed, 9.2 per game",
+    "standardRank": 266,
+    "pprRank": 281,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "bills90",
+    "name": "1990 Bills",
+    "position": "DST",
+    "team": "BUF",
+    "careerStart": 1990,
+    "careerEnd": 1990,
+    "statLine": "Super Bowl XXV run · Bruce Smith’s Bills D",
+    "standardRank": 267,
+    "pprRank": 282,
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "panthers15",
+    "name": "2015 Panthers",
+    "position": "DST",
+    "team": "CAR",
+    "careerStart": 2015,
+    "careerEnd": 2015,
+    "statLine": "15–1 · Super Bowl 50 · 24 takeaways",
+    "standardRank": 268,
+    "pprRank": 283,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "bengals81",
+    "name": "1981 Bengals",
+    "position": "DST",
+    "team": "CIN",
+    "careerStart": 1981,
+    "careerEnd": 1981,
+    "statLine": "Super Bowl XVI · Freezer Bowl AFC champs",
+    "standardRank": 269,
+    "pprRank": 284,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "browns64",
+    "name": "1964 Browns",
+    "position": "DST",
+    "team": "CLE",
+    "careerStart": 1964,
+    "careerEnd": 1964,
+    "statLine": "Last Cleveland title · shut down the Colts in the NFL Championship",
+    "standardRank": 270,
+    "pprRank": 285,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "cowboys77",
+    "name": "1977 Cowboys",
+    "position": "DST",
+    "team": "DAL",
+    "careerStart": 1977,
+    "careerEnd": 1977,
+    "statLine": "Doomsday Defense · Super Bowl XII 27–10",
+    "standardRank": 271,
+    "pprRank": 286,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "lions57",
+    "name": "1957 Lions",
+    "position": "DST",
+    "team": "DET",
+    "careerStart": 1957,
+    "careerEnd": 1957,
+    "statLine": "NFL champions · last Lions title defense",
+    "standardRank": 272,
+    "pprRank": 287,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "texans11",
+    "name": "2011 Texans",
+    "position": "DST",
+    "team": "HOU",
+    "careerStart": 2011,
+    "careerEnd": 2011,
+    "statLine": "Watt’s first playoff D · AFC South champs",
+    "standardRank": 273,
+    "pprRank": 288,
+    "teams": [
+      "HOU"
+    ]
+  },
+  {
+    "id": "colts06",
+    "name": "2006 Colts",
+    "position": "DST",
+    "team": "IND",
+    "careerStart": 2006,
+    "careerEnd": 2006,
+    "statLine": "Super Bowl XLI · Bob Sanders DPOY defense",
+    "standardRank": 274,
+    "pprRank": 289,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "chiefs69",
+    "name": "1969 Chiefs",
+    "position": "DST",
+    "team": "KC",
+    "careerStart": 1969,
+    "careerEnd": 1969,
+    "statLine": "Super Bowl IV · stacked AFL championship D",
+    "standardRank": 275,
+    "pprRank": 290,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "chargers06",
+    "name": "2006 Chargers",
+    "position": "DST",
+    "team": "LAC",
+    "careerStart": 2006,
+    "careerEnd": 2006,
+    "statLine": "14–2 · Merriman/Phillips Lights Out rush",
+    "standardRank": 276,
+    "pprRank": 291,
+    "teams": [
+      "LAC",
+      "SD"
+    ]
+  },
+  {
+    "id": "rams67",
+    "name": "1967 Rams",
+    "position": "DST",
+    "team": "LAR",
+    "careerStart": 1967,
+    "careerEnd": 1967,
+    "statLine": "Fearsome Foursome · 11–1–2 Coastal champs",
+    "standardRank": 277,
+    "pprRank": 292,
+    "teams": [
+      "LAR",
+      "STL"
+    ]
+  },
+  {
+    "id": "raiders76",
+    "name": "1976 Raiders",
+    "position": "DST",
+    "team": "OAK",
+    "careerStart": 1976,
+    "careerEnd": 1976,
+    "statLine": "Super Bowl XI · 13–1 Silver and Black D",
+    "standardRank": 278,
+    "pprRank": 293,
+    "teams": [
+      "OAK",
+      "LV",
+      "RAI"
+    ]
+  },
+  {
+    "id": "eagles91",
+    "name": "1991 Eagles",
+    "position": "DST",
+    "team": "PHI",
+    "careerStart": 1991,
+    "careerEnd": 1991,
+    "statLine": "Buddy Ryan leftover · 48 sacks, 10–6 without McMahon",
+    "standardRank": 279,
+    "pprRank": 294,
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "niners84",
+    "name": "1984 49ers",
+    "position": "DST",
+    "team": "SF",
+    "careerStart": 1984,
+    "careerEnd": 1984,
+    "statLine": "Super Bowl XIX · 15–1 Montana-era defense",
+    "standardRank": 280,
+    "pprRank": 295,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "titans00",
+    "name": "2000 Titans",
+    "position": "DST",
+    "team": "TEN",
+    "careerStart": 2000,
+    "careerEnd": 2000,
+    "statLine": "AFC title game · Kearse/Bulluck Titans D",
+    "standardRank": 281,
+    "pprRank": 296,
+    "teams": [
+      "TEN"
+    ]
+  },
+  {
+    "id": "washington91",
+    "name": "1991 Washington",
+    "position": "DST",
+    "team": "WAS",
+    "careerStart": 1991,
+    "careerEnd": 1991,
+    "statLine": "Super Bowl XXVI · 14–2 Gibbs championship D",
+    "standardRank": 282,
+    "pprRank": 297,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "cardinals47",
+    "name": "1947 Cardinals",
+    "position": "DST",
+    "team": "ARI",
+    "careerStart": 1947,
+    "careerEnd": 1947,
+    "statLine": "NFL champions · last Cardinals title in Chicago",
+    "standardRank": 283,
+    "pprRank": 298,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "cardinals15",
+    "name": "2015 Cardinals",
+    "position": "DST",
+    "team": "ARI",
+    "careerStart": 2015,
+    "careerEnd": 2015,
+    "statLine": "13–3 NFC West champs · Peterson/Campbell D",
+    "standardRank": 284,
+    "pprRank": 299,
+    "teams": [
+      "ARI"
+    ]
+  },
+  {
+    "id": "falcons98",
+    "name": "1998 Falcons",
+    "position": "DST",
+    "team": "ATL",
+    "careerStart": 1998,
+    "careerEnd": 1998,
+    "statLine": "Super Bowl XXXIII · 14–2 Dirty Birds",
+    "standardRank": 285,
+    "pprRank": 300,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "falcons16",
+    "name": "2016 Falcons",
+    "position": "DST",
+    "team": "ATL",
+    "careerStart": 2016,
+    "careerEnd": 2016,
+    "statLine": "Super Bowl LI · NFC champions in Atlanta",
+    "standardRank": 286,
+    "pprRank": 301,
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "ravens06",
+    "name": "2006 Ravens",
+    "position": "DST",
+    "team": "BAL",
+    "careerStart": 2006,
+    "careerEnd": 2006,
+    "statLine": "League-best scoring D · 13–3 Lewis/Reed",
+    "standardRank": 287,
+    "pprRank": 302,
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "ravens12",
+    "name": "2012 Ravens",
+    "position": "DST",
+    "team": "BAL",
+    "careerStart": 2012,
+    "careerEnd": 2012,
+    "statLine": "Super Bowl XLVII · Suggs/Lewis swan song",
+    "standardRank": 288,
+    "pprRank": 303,
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "bills64",
+    "name": "1964 Bills",
+    "position": "DST",
+    "team": "BUF",
+    "careerStart": 1964,
+    "careerEnd": 1964,
+    "statLine": "AFL champions · Saban’s Buffalo defense",
+    "standardRank": 289,
+    "pprRank": 304,
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "bills19",
+    "name": "2019 Bills",
+    "position": "DST",
+    "team": "BUF",
+    "careerStart": 2019,
+    "careerEnd": 2019,
+    "statLine": "Playoff return · White/Milano/Hyde D",
+    "standardRank": 290,
+    "pprRank": 305,
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "panthers96",
+    "name": "1996 Panthers",
+    "position": "DST",
+    "team": "CAR",
+    "careerStart": 1996,
+    "careerEnd": 1996,
+    "statLine": "NFC title game in year two · Mills/Greene D",
+    "standardRank": 291,
+    "pprRank": 306,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "panthers03",
+    "name": "2003 Panthers",
+    "position": "DST",
+    "team": "CAR",
+    "careerStart": 2003,
+    "careerEnd": 2003,
+    "statLine": "Super Bowl XXXVIII · Peppers/Morgan D",
+    "standardRank": 292,
+    "pprRank": 307,
+    "teams": [
+      "CAR"
+    ]
+  },
+  {
+    "id": "bears63",
+    "name": "1963 Bears",
+    "position": "DST",
+    "team": "CHI",
+    "careerStart": 1963,
+    "careerEnd": 1963,
+    "statLine": "NFL champions · George Halas’s last title D",
+    "standardRank": 293,
+    "pprRank": 308,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "bears06",
+    "name": "2006 Bears",
+    "position": "DST",
+    "team": "CHI",
+    "careerStart": 2006,
+    "careerEnd": 2006,
+    "statLine": "Super Bowl XLI · Urlacher/Briggs/Tillman",
+    "standardRank": 294,
+    "pprRank": 309,
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "bengals88",
+    "name": "1988 Bengals",
+    "position": "DST",
+    "team": "CIN",
+    "careerStart": 1988,
+    "careerEnd": 1988,
+    "statLine": "Super Bowl XXIII · Fulcher/Krumrie D",
+    "standardRank": 295,
+    "pprRank": 310,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "bengals21",
+    "name": "2021 Bengals",
+    "position": "DST",
+    "team": "CIN",
+    "careerStart": 2021,
+    "careerEnd": 2021,
+    "statLine": "Super Bowl LVI · Hendrickson/Bates D",
+    "standardRank": 296,
+    "pprRank": 311,
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "browns50",
+    "name": "1950 Browns",
+    "position": "DST",
+    "team": "CLE",
+    "careerStart": 1950,
+    "careerEnd": 1950,
+    "statLine": "NFL champions in year one · Graham-era D",
+    "standardRank": 297,
+    "pprRank": 312,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "browns86",
+    "name": "1986 Browns",
+    "position": "DST",
+    "team": "CLE",
+    "careerStart": 1986,
+    "careerEnd": 1986,
+    "statLine": "AFC title · Dawg Pound Dixon/Wright D",
+    "standardRank": 298,
+    "pprRank": 313,
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "cowboys71",
+    "name": "1971 Cowboys",
+    "position": "DST",
+    "team": "DAL",
+    "careerStart": 1971,
+    "careerEnd": 1971,
+    "statLine": "Super Bowl VI · original Doomsday Defense",
+    "standardRank": 299,
+    "pprRank": 314,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "cowboys92",
+    "name": "1992 Cowboys",
+    "position": "DST",
+    "team": "DAL",
+    "careerStart": 1992,
+    "careerEnd": 1992,
+    "statLine": "Super Bowl XXVII · Jimmy Johnson’s D",
+    "standardRank": 300,
+    "pprRank": 315,
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "broncos98",
+    "name": "1998 Broncos",
+    "position": "DST",
+    "team": "DEN",
+    "careerStart": 1998,
+    "careerEnd": 1998,
+    "statLine": "Super Bowl XXXIII · Atwater/Gordon repeat D",
+    "standardRank": 301,
+    "pprRank": 316,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "broncos15",
+    "name": "2015 Broncos",
+    "position": "DST",
+    "team": "DEN",
+    "careerStart": 2015,
+    "careerEnd": 2015,
+    "statLine": "Super Bowl 50 · No Fly Zone + Von Miller MVP",
+    "standardRank": 302,
+    "pprRank": 317,
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "lions53",
+    "name": "1953 Lions",
+    "position": "DST",
+    "team": "DET",
+    "careerStart": 1953,
+    "careerEnd": 1953,
+    "statLine": "NFL champions · Schmidt/Christiansen D",
+    "standardRank": 303,
+    "pprRank": 318,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "lions14",
+    "name": "2014 Lions",
+    "position": "DST",
+    "team": "DET",
+    "careerStart": 2014,
+    "careerEnd": 2014,
+    "statLine": "Suh/Fairley/Slay · 11–5 scoring D",
+    "standardRank": 304,
+    "pprRank": 319,
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "packers96",
+    "name": "1996 Packers",
+    "position": "DST",
+    "team": "GB",
+    "careerStart": 1996,
+    "careerEnd": 1996,
+    "statLine": "Super Bowl XXXI · White/Butler/Woodson D",
+    "standardRank": 305,
+    "pprRank": 320,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "packers10",
+    "name": "2010 Packers",
+    "position": "DST",
+    "team": "GB",
+    "careerStart": 2010,
+    "careerEnd": 2010,
+    "statLine": "Super Bowl XLV · Matthews/Woodson/Raji",
+    "standardRank": 306,
+    "pprRank": 321,
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "texans12",
+    "name": "2012 Texans",
+    "position": "DST",
+    "team": "HOU",
+    "careerStart": 2012,
+    "careerEnd": 2012,
+    "statLine": "Watt 20.5-sack DPOY season · 12–4",
+    "standardRank": 307,
+    "pprRank": 322,
+    "teams": [
+      "HOU"
+    ]
+  },
+  {
+    "id": "texans16",
+    "name": "2016 Texans",
+    "position": "DST",
+    "team": "HOU",
+    "careerStart": 2016,
+    "careerEnd": 2016,
+    "statLine": "AFC South champs · Watt/Clowney/Mercilus",
+    "standardRank": 308,
+    "pprRank": 323,
+    "teams": [
+      "HOU"
+    ]
+  },
+  {
+    "id": "colts58",
+    "name": "1958 Colts",
+    "position": "DST",
+    "team": "IND",
+    "careerStart": 1958,
+    "careerEnd": 1958,
+    "statLine": "The Greatest Game · Marchetti championship D",
+    "standardRank": 309,
+    "pprRank": 324,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "colts70",
+    "name": "1970 Colts",
+    "position": "DST",
+    "team": "IND",
+    "careerStart": 1970,
+    "careerEnd": 1970,
+    "statLine": "Super Bowl V · Baltimore Colts title D",
+    "standardRank": 310,
+    "pprRank": 325,
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "jaguars99",
+    "name": "1999 Jaguars",
+    "position": "DST",
+    "team": "JAX",
+    "careerStart": 1999,
+    "careerEnd": 1999,
+    "statLine": "AFC title game · 14–2 Brackens/Stroud D",
+    "standardRank": 311,
+    "pprRank": 326,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "jaguars06",
+    "name": "2006 Jaguars",
+    "position": "DST",
+    "team": "JAX",
+    "careerStart": 2006,
+    "careerEnd": 2006,
+    "statLine": "Top-five scoring D · Henderson/Stroud wall",
+    "standardRank": 312,
+    "pprRank": 327,
+    "teams": [
+      "JAX"
+    ]
+  },
+  {
+    "id": "chiefs97",
+    "name": "1997 Chiefs",
+    "position": "DST",
+    "team": "KC",
+    "careerStart": 1997,
+    "careerEnd": 1997,
+    "statLine": "13–3 AFC West · Thomas/Grier D",
+    "standardRank": 313,
+    "pprRank": 328,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "chiefs19",
+    "name": "2019 Chiefs",
+    "position": "DST",
+    "team": "KC",
+    "careerStart": 2019,
+    "careerEnd": 2019,
+    "statLine": "Super Bowl LIV · Chris Jones/Mathieu D",
+    "standardRank": 314,
+    "pprRank": 329,
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "chargers63",
+    "name": "1963 Chargers",
+    "position": "DST",
+    "team": "LAC",
+    "careerStart": 1963,
+    "careerEnd": 1963,
+    "statLine": "AFL champions · Faison/Lincoln D",
+    "standardRank": 315,
+    "pprRank": 330,
+    "teams": [
+      "LAC",
+      "SD"
+    ]
+  },
+  {
+    "id": "chargers94",
+    "name": "1994 Chargers",
+    "position": "DST",
+    "team": "LAC",
+    "careerStart": 1994,
+    "careerEnd": 1994,
+    "statLine": "Super Bowl XXIX · Seau’s Bolts D",
+    "standardRank": 316,
+    "pprRank": 331,
+    "teams": [
+      "LAC",
+      "SD"
+    ]
+  },
+  {
+    "id": "rams75",
+    "name": "1975 Rams",
+    "position": "DST",
+    "team": "LAR",
+    "careerStart": 1975,
+    "careerEnd": 1975,
+    "statLine": "NFC champs · Youngblood/Olsen Foursome D",
+    "standardRank": 317,
+    "pprRank": 332,
+    "teams": [
+      "LAR",
+      "STL"
+    ]
+  },
+  {
+    "id": "rams99",
+    "name": "1999 Rams",
+    "position": "DST",
+    "team": "LAR",
+    "careerStart": 1999,
+    "careerEnd": 1999,
+    "statLine": "Super Bowl XXXIV · Greatest Show on Turf D",
+    "standardRank": 318,
+    "pprRank": 333,
+    "teams": [
+      "LAR",
+      "STL"
+    ]
+  },
+  {
+    "id": "raiders67",
+    "name": "1967 Raiders",
+    "position": "DST",
+    "team": "OAK",
+    "careerStart": 1967,
+    "careerEnd": 1967,
+    "statLine": "AFL champions · 13–1 Silver and Black",
+    "standardRank": 319,
+    "pprRank": 334,
+    "teams": [
+      "OAK",
+      "LV",
+      "RAI"
+    ]
+  },
+  {
+    "id": "raiders83",
+    "name": "1983 Raiders",
+    "position": "DST",
+    "team": "OAK",
+    "careerStart": 1983,
+    "careerEnd": 1983,
+    "statLine": "Super Bowl XVIII · Haynes/Alzado/Millen",
+    "standardRank": 320,
+    "pprRank": 335,
+    "teams": [
+      "OAK",
+      "LV",
+      "RAI"
+    ]
+  },
+  {
+    "id": "dolphins73",
+    "name": "1973 Dolphins",
+    "position": "DST",
+    "team": "MIA",
+    "careerStart": 1973,
+    "careerEnd": 1973,
+    "statLine": "Super Bowl VIII repeat · No-Name Defense",
+    "standardRank": 321,
+    "pprRank": 336,
+    "teams": [
+      "MIA"
+    ]
+  },
+  {
+    "id": "dolphins82",
+    "name": "1982 Dolphins",
+    "position": "DST",
+    "team": "MIA",
+    "careerStart": 1982,
+    "careerEnd": 1982,
+    "statLine": "Super Bowl XVII · Killer B’s",
+    "standardRank": 322,
+    "pprRank": 337,
+    "teams": [
+      "MIA"
+    ]
+  },
+  {
+    "id": "vikings76",
+    "name": "1976 Vikings",
+    "position": "DST",
+    "team": "MIN",
+    "careerStart": 1976,
+    "careerEnd": 1976,
+    "statLine": "Super Bowl XI · Purple People Eaters encore",
+    "standardRank": 323,
+    "pprRank": 338,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "vikings17",
+    "name": "2017 Vikings",
+    "position": "DST",
+    "team": "MIN",
+    "careerStart": 2017,
+    "careerEnd": 2017,
+    "statLine": "Minneapolis Miracle year · Hunter/Griffen D",
+    "standardRank": 324,
+    "pprRank": 339,
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "patriots01",
+    "name": "2001 Patriots",
+    "position": "DST",
+    "team": "NE",
+    "careerStart": 2001,
+    "careerEnd": 2001,
+    "statLine": "Super Bowl XXXVI · Bruschi/Law/Milloy",
+    "standardRank": 325,
+    "pprRank": 340,
+    "teams": [
+      "NE"
+    ]
+  },
+  {
+    "id": "patriots14",
+    "name": "2014 Patriots",
+    "position": "DST",
+    "team": "NE",
+    "careerStart": 2014,
+    "careerEnd": 2014,
+    "statLine": "Super Bowl XLIX · Butler’s goal-line INT",
+    "standardRank": 326,
+    "pprRank": 341,
+    "teams": [
+      "NE"
+    ]
+  },
+  {
+    "id": "saints91",
+    "name": "1991 Saints",
+    "position": "DST",
+    "team": "NO",
+    "careerStart": 1991,
+    "careerEnd": 1991,
+    "statLine": "Dome Patrol peak · 11–5 first division title",
+    "standardRank": 327,
+    "pprRank": 342,
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "saints18",
+    "name": "2018 Saints",
+    "position": "DST",
+    "team": "NO",
+    "careerStart": 2018,
+    "careerEnd": 2018,
+    "statLine": "13–3 NFC South · Jordan/Lattimore D",
+    "standardRank": 328,
+    "pprRank": 343,
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "giants90",
+    "name": "1990 Giants",
+    "position": "DST",
+    "team": "NYG",
+    "careerStart": 1990,
+    "careerEnd": 1990,
+    "statLine": "Super Bowl XXV · LT/Banks/Reasons D",
+    "standardRank": 329,
+    "pprRank": 344,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "giants07",
+    "name": "2007 Giants",
+    "position": "DST",
+    "team": "NYG",
+    "careerStart": 2007,
+    "careerEnd": 2007,
+    "statLine": "Super Bowl XLII · Strahan/Umenyiora/Tuck",
+    "standardRank": 330,
+    "pprRank": 345,
+    "teams": [
+      "NYG"
+    ]
+  },
+  {
+    "id": "jets81",
+    "name": "1981 Jets",
+    "position": "DST",
+    "team": "NYJ",
+    "careerStart": 1981,
+    "careerEnd": 1981,
+    "statLine": "New York Sack Exchange · Klecko/Gastineau",
+    "standardRank": 331,
+    "pprRank": 346,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "jets09",
+    "name": "2009 Jets",
+    "position": "DST",
+    "team": "NYJ",
+    "careerStart": 2009,
+    "careerEnd": 2009,
+    "statLine": "AFC title game · Revis Island",
+    "standardRank": 332,
+    "pprRank": 347,
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "eagles60",
+    "name": "1960 Eagles",
+    "position": "DST",
+    "team": "PHI",
+    "careerStart": 1960,
+    "careerEnd": 1960,
+    "statLine": "NFL champions · Bednarik’s last title D",
+    "standardRank": 333,
+    "pprRank": 348,
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "eagles17",
+    "name": "2017 Eagles",
+    "position": "DST",
+    "team": "PHI",
+    "careerStart": 2017,
+    "careerEnd": 2017,
+    "statLine": "Super Bowl LII · Cox/Graham/Jenkins D",
+    "standardRank": 334,
+    "pprRank": 349,
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "steelers78",
+    "name": "1978 Steelers",
+    "position": "DST",
+    "team": "PIT",
+    "careerStart": 1978,
+    "careerEnd": 1978,
+    "statLine": "Super Bowl XIII · Steel Curtain title encore",
+    "standardRank": 335,
+    "pprRank": 350,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "steelers08",
+    "name": "2008 Steelers",
+    "position": "DST",
+    "team": "PIT",
+    "careerStart": 2008,
+    "careerEnd": 2008,
+    "statLine": "Super Bowl XLIII · Harrison/Polamalu D",
+    "standardRank": 336,
+    "pprRank": 351,
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "seahawks84",
+    "name": "1984 Seahawks",
+    "position": "DST",
+    "team": "SEA",
+    "careerStart": 1984,
+    "careerEnd": 1984,
+    "statLine": "Easley DPOY · first Seattle division title",
+    "standardRank": 337,
+    "pprRank": 352,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "seahawks05",
+    "name": "2005 Seahawks",
+    "position": "DST",
+    "team": "SEA",
+    "careerStart": 2005,
+    "careerEnd": 2005,
+    "statLine": "Super Bowl XL · Alexander-era Seattle D",
+    "standardRank": 338,
+    "pprRank": 353,
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "niners89",
+    "name": "1989 49ers",
+    "position": "DST",
+    "team": "SF",
+    "careerStart": 1989,
+    "careerEnd": 1989,
+    "statLine": "Super Bowl XXIV · Lott/Haley 14–2 D",
+    "standardRank": 339,
+    "pprRank": 354,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "niners19",
+    "name": "2019 49ers",
+    "position": "DST",
+    "team": "SF",
+    "careerStart": 2019,
+    "careerEnd": 2019,
+    "statLine": "Super Bowl LIV · Bosa/Warner/Sherman D",
+    "standardRank": 340,
+    "pprRank": 355,
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "bucs79",
+    "name": "1979 Buccaneers",
+    "position": "DST",
+    "team": "TB",
+    "careerStart": 1979,
+    "careerEnd": 1979,
+    "statLine": "NFC title game · Selmon’s first Tampa D",
+    "standardRank": 341,
+    "pprRank": 356,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "bucs20",
+    "name": "2020 Buccaneers",
+    "position": "DST",
+    "team": "TB",
+    "careerStart": 2020,
+    "careerEnd": 2020,
+    "statLine": "Super Bowl LV · David/White/Winfield D",
+    "standardRank": 342,
+    "pprRank": 357,
+    "teams": [
+      "TB"
+    ]
+  },
+  {
+    "id": "oilers79",
+    "name": "1979 Oilers",
+    "position": "DST",
+    "team": "TEN",
+    "careerStart": 1979,
+    "careerEnd": 1979,
+    "statLine": "AFC title game · Luv Ya Blue Bethea/Bingham D",
+    "standardRank": 343,
+    "pprRank": 358,
+    "teams": [
+      "TEN"
+    ]
+  },
+  {
+    "id": "titans08",
+    "name": "2008 Titans",
+    "position": "DST",
+    "team": "TEN",
+    "careerStart": 2008,
+    "careerEnd": 2008,
+    "statLine": "13–3 AFC South · Haynesworth/Finnegan D",
+    "standardRank": 344,
+    "pprRank": 359,
+    "teams": [
+      "TEN"
+    ]
+  },
+  {
+    "id": "washington72",
+    "name": "1972 Washington",
+    "position": "DST",
+    "team": "WAS",
+    "careerStart": 1972,
+    "careerEnd": 1972,
+    "statLine": "Super Bowl VII · Over-the-Hill Gang",
+    "standardRank": 345,
+    "pprRank": 360,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "washington82",
+    "name": "1982 Washington",
+    "position": "DST",
+    "team": "WAS",
+    "careerStart": 1982,
+    "careerEnd": 1982,
+    "statLine": "Super Bowl XVII · Hogs-era championship D",
+    "standardRank": 346,
+    "pprRank": 361,
+    "teams": [
+      "WAS"
+    ]
+  },
+  {
+    "id": "syoung",
+    "name": "Steve Young",
+    "position": "QB",
+    "team": "SF",
+    "careerStart": 1985,
+    "careerEnd": 1999,
+    "standardRank": 347,
+    "pprRank": 362,
+    "statLine": "1994: 70.3% completions · 7× rushing TD season as QB",
+    "teams": [
+      "SF",
+      "TB"
+    ]
+  },
+  {
+    "id": "elway",
+    "name": "John Elway",
+    "position": "QB",
+    "team": "DEN",
+    "careerStart": 1983,
+    "careerEnd": 1998,
+    "standardRank": 348,
+    "pprRank": 363,
+    "statLine": "9× Pro Bowl · Super Bowl XXXII/XXXIII champ",
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "unitas",
+    "name": "Johnny Unitas",
+    "position": "QB",
+    "team": "BAL",
+    "careerStart": 1956,
+    "careerEnd": 1973,
+    "standardRank": 349,
+    "pprRank": 364,
+    "statLine": "47-game TD streak · 3× NFL MVP",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "carter",
+    "name": "Cris Carter",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 1987,
+    "careerEnd": 2002,
+    "standardRank": 350,
+    "pprRank": 9,
+    "statLine": "1,101 catches · 130 TD receptions",
+    "teams": [
+      "MIN",
+      "MIA"
+    ]
+  },
+  {
+    "id": "tbrown",
+    "name": "Tim Brown",
+    "position": "WR",
+    "team": "RAI",
+    "careerStart": 1988,
+    "careerEnd": 2004,
+    "standardRank": 351,
+    "pprRank": 10,
+    "statLine": "1,094 catches · 14,934 yards · 100 TDs",
+    "teams": [
+      "RAI",
+      "TB"
+    ]
+  },
+  {
+    "id": "largent",
+    "name": "Steve Largent",
+    "position": "WR",
+    "team": "SEA",
+    "careerStart": 1976,
+    "careerEnd": 1989,
+    "standardRank": 352,
+    "pprRank": 15,
+    "statLine": "819 catches · 13,089 yards · never a losing season's fade",
+    "teams": [
+      "SEA"
+    ]
+  },
+  {
+    "id": "hutson",
+    "name": "Don Hutson",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1935,
+    "careerEnd": 1945,
+    "standardRank": 353,
+    "pprRank": 17,
+    "statLine": "99 career TDs in the leather-helmet era · 1942: 17 TDs",
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "alworth",
+    "name": "Lance Alworth",
+    "position": "WR",
+    "team": "SD",
+    "careerStart": 1962,
+    "careerEnd": 1972,
+    "standardRank": 354,
+    "pprRank": 18,
+    "statLine": "Bambi: 10,266 yards · 18.2 yards per catch",
+    "teams": [
+      "SD",
+      "DAL"
+    ]
+  },
+  {
+    "id": "mahomes",
+    "name": "Patrick Mahomes",
+    "position": "QB",
+    "team": "KC",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 355,
+    "pprRank": 369,
+    "statLine": "3× Super Bowl champ · 50 TD passes in 2018",
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "campbell",
+    "name": "Earl Campbell",
+    "position": "RB",
+    "team": "HOU",
+    "careerStart": 1978,
+    "careerEnd": 1985,
+    "standardRank": 356,
+    "pprRank": 375,
+    "statLine": "1980: 1,934 rush yards · 5.2 YPC that year",
+    "teams": [
+      "TEN",
+      "NO"
+    ]
+  },
+  {
+    "id": "mallen",
+    "name": "Marcus Allen",
+    "position": "RB",
+    "team": "RAI",
+    "careerStart": 1982,
+    "careerEnd": 1997,
+    "standardRank": 357,
+    "pprRank": 373,
+    "statLine": "Super Bowl XVIII MVP · 12,243 rush yards",
+    "teams": [
+      "RAI",
+      "KC"
+    ]
+  },
+  {
+    "id": "staubach",
+    "name": "Roger Staubach",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 1969,
+    "careerEnd": 1979,
+    "standardRank": 358,
+    "pprRank": 376,
+    "statLine": "Super Bowl VI MVP · 4 Super Bowl trips",
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "tthomas",
+    "name": "Thurman Thomas",
+    "position": "RB",
+    "team": "BUF",
+    "careerStart": 1988,
+    "careerEnd": 2000,
+    "standardRank": 359,
+    "pprRank": 370,
+    "statLine": "1992: 1,487 rush · 626 receiving · Super Bowl XXV",
+    "teams": [
+      "BUF",
+      "MIA"
+    ]
+  },
+  {
+    "id": "dorsett",
+    "name": "Tony Dorsett",
+    "position": "RB",
+    "team": "DAL",
+    "careerStart": 1977,
+    "careerEnd": 1988,
+    "standardRank": 360,
+    "pprRank": 377,
+    "statLine": "12,739 rush yards · 99-yard TD vs. Vikings",
+    "teams": [
+      "DAL",
+      "DEN"
+    ]
+  },
+  {
+    "id": "tharris",
+    "name": "Franco Harris",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 1972,
+    "careerEnd": 1984,
+    "standardRank": 361,
+    "pprRank": 378,
+    "statLine": "Immaculate Reception · 4 Super Bowl rings",
+    "teams": [
+      "PIT",
+      "SEA"
+    ]
+  },
+  {
+    "id": "sayers",
+    "name": "Gale Sayers",
+    "position": "RB",
+    "team": "CHI",
+    "careerStart": 1965,
+    "careerEnd": 1971,
+    "standardRank": 362,
+    "pprRank": 379,
+    "statLine": "22 TDs as a rookie (1965) · 4.9 career YPC",
+    "teams": [
+      "CHI"
+    ]
+  },
+  {
+    "id": "moon",
+    "name": "Warren Moon",
+    "position": "QB",
+    "team": "HOU",
+    "careerStart": 1984,
+    "careerEnd": 2000,
+    "standardRank": 363,
+    "pprRank": 380,
+    "statLine": "49,325 combined NFL/CFL yards · 1990: 4,689 yards",
+    "teams": [
+      "TEN",
+      "MIN",
+      "SEA",
+      "KC"
+    ]
+  },
+  {
+    "id": "tarkenton",
+    "name": "Fran Tarkenton",
+    "position": "QB",
+    "team": "MIN",
+    "careerStart": 1961,
+    "careerEnd": 1978,
+    "standardRank": 364,
+    "pprRank": 381,
+    "statLine": "47,003 passing yards · scrambled for 3,674 rush yards",
+    "teams": [
+      "MIN",
+      "NYG"
+    ]
+  },
+  {
+    "id": "gonzalez",
+    "name": "Tony Gonzalez",
+    "position": "TE",
+    "team": "KC",
+    "careerStart": 1997,
+    "careerEnd": 2013,
+    "standardRank": 365,
+    "pprRank": 36,
+    "statLine": "15,127 yards · 1,325 catches · 111 TD receptions",
+    "teams": [
+      "KC",
+      "ATL"
+    ]
+  },
+  {
+    "id": "gronk",
+    "name": "Rob Gronkowski",
+    "position": "TE",
+    "team": "NE",
+    "careerStart": 2010,
+    "careerEnd": 2021,
+    "standardRank": 366,
+    "pprRank": 39,
+    "statLine": "3 Super Bowl rings · 92 TD catches in 9 years",
+    "teams": [
+      "NE",
+      "TB"
+    ]
+  },
+  {
+    "id": "kelce",
+    "name": "Travis Kelce",
+    "position": "TE",
+    "team": "KC",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 367,
+    "pprRank": 38,
+    "statLine": "2020: 141/1,416/11 · 1,000-yard TE seasons stacked",
+    "teams": [
+      "KC"
+    ]
+  },
+  {
+    "id": "gates",
+    "name": "Antonio Gates",
+    "position": "TE",
+    "team": "SD",
+    "careerStart": 2003,
+    "careerEnd": 2018,
+    "standardRank": 368,
+    "pprRank": 40,
+    "statLine": "116 TD catches · 10× Pro Bowl from undrafted",
+    "teams": [
+      "SD",
+      "LAC"
+    ]
+  },
+  {
+    "id": "ssharpe",
+    "name": "Shannon Sharpe",
+    "position": "TE",
+    "team": "DEN",
+    "careerStart": 1990,
+    "careerEnd": 2003,
+    "standardRank": 369,
+    "pprRank": 42,
+    "statLine": "3 Super Bowl rings · 8,438 yards · 62 TDs",
+    "teams": [
+      "DEN",
+      "GB"
+    ]
+  },
+  {
+    "id": "ejames",
+    "name": "Edgerrin James",
+    "position": "RB",
+    "team": "IND",
+    "careerStart": 1999,
+    "careerEnd": 2009,
+    "standardRank": 370,
+    "pprRank": 371,
+    "statLine": "1999: 1,553 rush yards / 13 TD as a rookie",
+    "teams": [
+      "IND",
+      "ARI",
+      "SEA"
+    ]
+  },
+  {
+    "id": "cmartin",
+    "name": "Curtis Martin",
+    "position": "RB",
+    "team": "NYJ",
+    "careerStart": 1995,
+    "careerEnd": 2006,
+    "standardRank": 371,
+    "pprRank": 372,
+    "statLine": "14,101 rush yards · 1,000-yard seasons stacked",
+    "teams": [
+      "NYJ",
+      "NE"
+    ]
+  },
+  {
+    "id": "irvin",
+    "name": "Michael Irvin",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 1988,
+    "careerEnd": 1999,
+    "standardRank": 372,
+    "pprRank": 365,
+    "statLine": "11,521 yards · 3 Super Bowl rings · 1995: 1,603 yards",
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "reed",
+    "name": "Andre Reed",
+    "position": "WR",
+    "team": "BUF",
+    "careerStart": 1985,
+    "careerEnd": 2000,
+    "standardRank": 373,
+    "pprRank": 366,
+    "statLine": "951 catches · 13,095 yards · Bills' Super Bowl years",
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "lofton",
+    "name": "James Lofton",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1978,
+    "careerEnd": 1993,
+    "standardRank": 374,
+    "pprRank": 367,
+    "statLine": "14,004 yards · 22.8 YPC burst with the Packers",
+    "teams": [
+      "GB",
+      "RAI",
+      "BUF",
+      "LAR",
+      "PHI"
+    ]
+  },
+  {
+    "id": "ssharpew",
+    "name": "Sterling Sharpe",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 1988,
+    "careerEnd": 1994,
+    "standardRank": 375,
+    "pprRank": 368,
+    "statLine": "1992: 108/1,461/13 · career cut short at 27",
+    "teams": [
+      "GB"
+    ]
+  },
+  {
+    "id": "bruce",
+    "name": "Isaac Bruce",
+    "position": "WR",
+    "team": "STL",
+    "careerStart": 1994,
+    "careerEnd": 2009,
+    "standardRank": 376,
+    "pprRank": 23,
+    "statLine": "15,208 yards · Greatest Show on Turf deep threat",
+    "teams": [
+      "STL",
+      "SF"
+    ]
+  },
+  {
+    "id": "holt",
+    "name": "Torry Holt",
+    "position": "WR",
+    "team": "STL",
+    "careerStart": 1999,
+    "careerEnd": 2009,
+    "standardRank": 377,
+    "pprRank": 24,
+    "statLine": "2003: 117/1,696/12 · Rams' GOAT slot of the era",
+    "teams": [
+      "STL",
+      "NE",
+      "JAX"
+    ]
+  },
+  {
+    "id": "ajohnson",
+    "name": "Andre Johnson",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2003,
+    "careerEnd": 2016,
+    "standardRank": 378,
+    "pprRank": 20,
+    "statLine": "2012: 1,598 yards · 1,012 career catches",
+    "teams": [
+      "HOU",
+      "IND",
+      "TEN"
+    ]
+  },
+  {
+    "id": "julio",
+    "name": "Julio Jones",
+    "position": "WR",
+    "team": "ATL",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "standardRank": 379,
+    "pprRank": 19,
+    "statLine": "2015: 1,871 yards · 6× 1,400-yard seasons",
+    "teams": [
+      "ATL",
+      "TEN",
+      "TB"
+    ]
+  },
+  {
+    "id": "wayne",
+    "name": "Reggie Wayne",
+    "position": "WR",
+    "team": "IND",
+    "careerStart": 2001,
+    "careerEnd": 2014,
+    "standardRank": 380,
+    "pprRank": 22,
+    "statLine": "1,070 catches · 14,345 yards · Manning's running mate",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "tdavis",
+    "name": "Terrell Davis",
+    "position": "RB",
+    "team": "DEN",
+    "careerStart": 1995,
+    "careerEnd": 2001,
+    "standardRank": 381,
+    "pprRank": 399,
+    "statLine": "1998: 2,008 rush yards · Super Bowl XXXII MVP",
+    "teams": [
+      "DEN"
+    ]
+  },
+  {
+    "id": "salexander",
+    "name": "Shaun Alexander",
+    "position": "RB",
+    "team": "SEA",
+    "careerStart": 2000,
+    "careerEnd": 2008,
+    "standardRank": 382,
+    "pprRank": 400,
+    "statLine": "2005: 1,880 rush yards · 27 rush TDs",
+    "teams": [
+      "SEA",
+      "WAS"
+    ]
+  },
+  {
+    "id": "pholmes",
+    "name": "Priest Holmes",
+    "position": "RB",
+    "team": "KC",
+    "careerStart": 1997,
+    "careerEnd": 2007,
+    "standardRank": 383,
+    "pprRank": 386,
+    "statLine": "2002: 1,615 rush · 21 rush TDs · 70 receptions",
+    "teams": [
+      "KC",
+      "BAL"
+    ]
+  },
+  {
+    "id": "bettis",
+    "name": "Jerome Bettis",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 1993,
+    "careerEnd": 2005,
+    "standardRank": 384,
+    "pprRank": 401,
+    "statLine": "The Bus: 13,662 rush yards · Super Bowl XL",
+    "teams": [
+      "PIT",
+      "LAR"
+    ]
+  },
+  {
+    "id": "ftaylor",
+    "name": "Fred Taylor",
+    "position": "RB",
+    "team": "JAX",
+    "careerStart": 1998,
+    "careerEnd": 2010,
+    "standardRank": 385,
+    "pprRank": 402,
+    "statLine": "11,695 rush yards · 4.6 career YPC",
+    "teams": [
+      "JAX",
+      "NE"
+    ]
+  },
+  {
+    "id": "watters",
+    "name": "Ricky Watters",
+    "position": "RB",
+    "team": "SF",
+    "careerStart": 1991,
+    "careerEnd": 2001,
+    "standardRank": 386,
+    "pprRank": 387,
+    "statLine": "1994: 1,593 rush · 66 catches in San Francisco",
+    "teams": [
+      "SF",
+      "PHI",
+      "SEA"
+    ]
+  },
+  {
+    "id": "bradshaw",
+    "name": "Terry Bradshaw",
+    "position": "QB",
+    "team": "PIT",
+    "careerStart": 1970,
+    "careerEnd": 1983,
+    "standardRank": 387,
+    "pprRank": 409,
+    "statLine": "4× Super Bowl champ · 1978: 28 TD passes",
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "fouts",
+    "name": "Dan Fouts",
+    "position": "QB",
+    "team": "SD",
+    "careerStart": 1973,
+    "careerEnd": 1987,
+    "standardRank": 388,
+    "pprRank": 410,
+    "statLine": "Air Coryell: 3 straight 4,000-yard seasons (1979–81)",
+    "teams": [
+      "SD"
+    ]
+  },
+  {
+    "id": "ben",
+    "name": "Ben Roethlisberger",
+    "position": "QB",
+    "team": "PIT",
+    "careerStart": 2004,
+    "careerEnd": 2021,
+    "standardRank": 389,
+    "pprRank": 411,
+    "statLine": "2× Super Bowl champ · 418 career TD passes",
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "warner",
+    "name": "Kurt Warner",
+    "position": "QB",
+    "team": "STL",
+    "careerStart": 1998,
+    "careerEnd": 2009,
+    "standardRank": 390,
+    "pprRank": 412,
+    "statLine": "1999: 41 TD passes · Super Bowl XXXIV MVP",
+    "teams": [
+      "STL",
+      "ARI"
+    ]
+  },
+  {
+    "id": "kelly",
+    "name": "Jim Kelly",
+    "position": "QB",
+    "team": "BUF",
+    "careerStart": 1986,
+    "careerEnd": 1996,
+    "standardRank": 391,
+    "pprRank": 413,
+    "statLine": "4 straight Super Bowls · 13,841 yards in Buffalo",
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "aikman",
+    "name": "Troy Aikman",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 1989,
+    "careerEnd": 2000,
+    "standardRank": 392,
+    "pprRank": 414,
+    "statLine": "3× Super Bowl champ · 90s Cowboys engine",
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "winslow",
+    "name": "Kellen Winslow",
+    "position": "TE",
+    "team": "SD",
+    "careerStart": 1979,
+    "careerEnd": 1987,
+    "standardRank": 393,
+    "pprRank": 415,
+    "statLine": "1980: 89/1,290/9 · invented the modern TE",
+    "teams": [
+      "SD"
+    ]
+  },
+  {
+    "id": "newsome",
+    "name": "Ozzie Newsome",
+    "position": "TE",
+    "team": "CLE",
+    "careerStart": 1978,
+    "careerEnd": 1990,
+    "standardRank": 394,
+    "pprRank": 416,
+    "statLine": "662 catches · Browns all-time leader for decades",
+    "teams": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "ditka",
+    "name": "Mike Ditka",
+    "position": "TE",
+    "team": "CHI",
+    "careerStart": 1961,
+    "careerEnd": 1972,
+    "standardRank": 395,
+    "pprRank": 417,
+    "statLine": "1961: 56/1,076/12 as a rookie TE",
+    "teams": [
+      "CHI",
+      "DAL",
+      "PHI"
+    ]
+  },
+  {
+    "id": "mackey",
+    "name": "John Mackey",
+    "position": "TE",
+    "team": "BAL",
+    "careerStart": 1963,
+    "careerEnd": 1972,
+    "standardRank": 396,
+    "pprRank": 418,
+    "statLine": "Super Bowl V champ · 6,186 yards · 38 TDs",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "witten",
+    "name": "Jason Witten",
+    "position": "TE",
+    "team": "DAL",
+    "careerStart": 2003,
+    "careerEnd": 2020,
+    "standardRank": 397,
+    "pprRank": 43,
+    "statLine": "1,228 catches · 13,046 yards · ironman TE",
+    "teams": [
+      "DAL",
+      "LV"
+    ]
+  },
+  {
+    "id": "warfield",
+    "name": "Paul Warfield",
+    "position": "WR",
+    "team": "MIA",
+    "careerStart": 1964,
+    "careerEnd": 1977,
+    "standardRank": 398,
+    "pprRank": 398,
+    "statLine": "20.1 yards per catch career · 2 Super Bowl rings",
+    "teams": [
+      "MIA",
+      "CLE"
+    ]
+  },
+  {
+    "id": "swann",
+    "name": "Lynn Swann",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1974,
+    "careerEnd": 1982,
+    "standardRank": 399,
+    "pprRank": 457,
+    "statLine": "Super Bowl X MVP · 4 Super Bowl rings",
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "stallworth",
+    "name": "John Stallworth",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1974,
+    "careerEnd": 1987,
+    "standardRank": 400,
+    "pprRank": 458,
+    "statLine": "Super Bowl XIV: 121 yards · 4 rings in Pittsburgh",
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "hward",
+    "name": "Hines Ward",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 1998,
+    "careerEnd": 2011,
+    "standardRank": 401,
+    "pprRank": 397,
+    "statLine": "1,000 catches · Super Bowl XL MVP",
+    "teams": [
+      "PIT"
+    ]
+  },
+  {
+    "id": "ochocinco",
+    "name": "Chad Johnson",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2001,
+    "careerEnd": 2011,
+    "standardRank": 402,
+    "pprRank": 395,
+    "statLine": "2007: 1,440 yards · 8× 1,000-yard seasons",
+    "teams": [
+      "CIN",
+      "NE",
+      "MIA"
+    ]
+  },
+  {
+    "id": "dez",
+    "name": "Dez Bryant",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 2010,
+    "careerEnd": 2020,
+    "standardRank": 403,
+    "pprRank": 396,
+    "statLine": "2014: 16 TD catches · 73/1,320/16 that year",
+    "teams": [
+      "DAL",
+      "NO",
+      "BAL"
+    ]
+  },
+  {
+    "id": "henry",
+    "name": "Derrick Henry",
+    "position": "RB",
+    "team": "TEN",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 404,
+    "pprRank": 403,
+    "statLine": "2020: 2,027 rush yards · 2024: 1,921 in Baltimore",
+    "teams": [
+      "TEN",
+      "BAL"
+    ]
+  },
+  {
+    "id": "cmc",
+    "name": "Christian McCaffrey",
+    "position": "RB",
+    "team": "CAR",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 405,
+    "pprRank": 382,
+    "statLine": "2019: 1,387 rush · 1,005 receiving · 19 total TDs",
+    "teams": [
+      "CAR",
+      "SF"
+    ]
+  },
+  {
+    "id": "lynch",
+    "name": "Marshawn Lynch",
+    "position": "RB",
+    "team": "SEA",
+    "careerStart": 2007,
+    "careerEnd": 2019,
+    "standardRank": 406,
+    "pprRank": 405,
+    "statLine": "Beast Quake · Super Bowl XLVIII champ",
+    "teams": [
+      "SEA",
+      "BUF"
+    ]
+  },
+  {
+    "id": "jcharles",
+    "name": "Jamaal Charles",
+    "position": "RB",
+    "team": "KC",
+    "careerStart": 2008,
+    "careerEnd": 2018,
+    "standardRank": 407,
+    "pprRank": 404,
+    "statLine": "2013: 1,287 rush · 693 receiving · 19 total TDs",
+    "teams": [
+      "KC",
+      "DEN",
+      "JAX"
+    ]
+  },
+  {
+    "id": "bell",
+    "name": "Le'Veon Bell",
+    "position": "RB",
+    "team": "PIT",
+    "careerStart": 2013,
+    "careerEnd": 2021,
+    "standardRank": 408,
+    "pprRank": 384,
+    "statLine": "2014: 2,215 yards from scrimmage · 83 catches",
+    "teams": [
+      "PIT",
+      "NYJ",
+      "BAL",
+      "TB"
+    ]
+  },
+  {
+    "id": "bojackson",
+    "name": "Bo Jackson",
+    "position": "RB",
+    "team": "RAI",
+    "careerStart": 1987,
+    "careerEnd": 1990,
+    "standardRank": 409,
+    "pprRank": 406,
+    "statLine": "221-yard game vs. Seahawks · 5.4 NFL YPC",
+    "teams": [
+      "RAI"
+    ]
+  },
+  {
+    "id": "portis",
+    "name": "Clinton Portis",
+    "position": "RB",
+    "team": "DEN",
+    "careerStart": 2002,
+    "careerEnd": 2010,
+    "standardRank": 410,
+    "pprRank": 407,
+    "statLine": "9,923 rush yards · 5.5 YPC as a rookie",
+    "teams": [
+      "DEN",
+      "WAS"
+    ]
+  },
+  {
+    "id": "cj2k",
+    "name": "Chris Johnson",
+    "position": "RB",
+    "team": "TEN",
+    "careerStart": 2008,
+    "careerEnd": 2017,
+    "standardRank": 411,
+    "pprRank": 408,
+    "statLine": "2009: 2,006 rush yards",
+    "teams": [
+      "TEN",
+      "NYJ",
+      "ARI"
+    ]
+  },
+  {
+    "id": "namath",
+    "name": "Joe Namath",
+    "position": "QB",
+    "team": "NYJ",
+    "careerStart": 1965,
+    "careerEnd": 1977,
+    "standardRank": 412,
+    "pprRank": 419,
+    "statLine": "Super Bowl III guarantee · 4,007 yards in 1967",
+    "teams": [
+      "NYJ"
+    ]
+  },
+  {
+    "id": "rivers",
+    "name": "Philip Rivers",
+    "position": "QB",
+    "team": "LAC",
+    "careerStart": 2004,
+    "careerEnd": 2020,
+    "standardRank": 413,
+    "pprRank": 420,
+    "statLine": "63,440 passing yards · 421 TD passes",
+    "teams": [
+      "LAC",
+      "IND"
+    ]
+  },
+  {
+    "id": "rwilson",
+    "name": "Russell Wilson",
+    "position": "QB",
+    "team": "SEA",
+    "careerStart": 2012,
+    "careerEnd": 2026,
+    "standardRank": 414,
+    "pprRank": 421,
+    "statLine": "Super Bowl XLVIII champ · 2015: 4,024 yards / 34 TD",
+    "teams": [
+      "SEA",
+      "DEN",
+      "NYG"
+    ]
+  },
+  {
+    "id": "stafford",
+    "name": "Matthew Stafford",
+    "position": "QB",
+    "team": "DET",
+    "careerStart": 2009,
+    "careerEnd": 2026,
+    "standardRank": 415,
+    "pprRank": 422,
+    "statLine": "2021 Super Bowl MVP · 500+ TD / INT career grind",
+    "teams": [
+      "DET",
+      "LAR"
+    ]
+  },
+  {
+    "id": "hopkins",
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 416,
+    "pprRank": 388,
+    "statLine": "2018: 115/1,572/11 · 1,000-yard seasons on three teams",
+    "teams": [
+      "HOU",
+      "ARI",
+      "TEN"
+    ]
+  },
+  {
+    "id": "ab",
+    "name": "Antonio Brown",
+    "position": "WR",
+    "team": "PIT",
+    "careerStart": 2010,
+    "careerEnd": 2021,
+    "standardRank": 417,
+    "pprRank": 389,
+    "statLine": "2014: 129/1,698/13 · 2015: 136/1,834/10",
+    "teams": [
+      "PIT",
+      "NE",
+      "TB"
+    ]
+  },
+  {
+    "id": "obj",
+    "name": "Odell Beckham Jr.",
+    "position": "WR",
+    "team": "NYG",
+    "careerStart": 2014,
+    "careerEnd": 2023,
+    "standardRank": 418,
+    "pprRank": 390,
+    "statLine": "2014: 91/1,305/12 as a rookie · The Catch",
+    "teams": [
+      "NYG",
+      "CLE",
+      "LAR",
+      "BAL",
+      "MIA"
+    ]
+  },
+  {
+    "id": "ajgreen",
+    "name": "A.J. Green",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2011,
+    "careerEnd": 2023,
+    "standardRank": 419,
+    "pprRank": 391,
+    "statLine": "2013: 98/1,426/11",
+    "teams": [
+      "CIN",
+      "ARI"
+    ]
+  },
+  {
+    "id": "adams",
+    "name": "Davante Adams",
+    "position": "WR",
+    "team": "GB",
+    "careerStart": 2014,
+    "careerEnd": 2026,
+    "standardRank": 420,
+    "pprRank": 392,
+    "statLine": "2020: 115/1,374/18 with Rodgers",
+    "teams": [
+      "GB",
+      "LV",
+      "NYJ"
+    ]
+  },
+  {
+    "id": "hill",
+    "name": "Tyreek Hill",
+    "position": "WR",
+    "team": "KC",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 421,
+    "pprRank": 393,
+    "statLine": "2023: 1,799 yards · 10.5 YPC after the catch bursts",
+    "teams": [
+      "KC",
+      "MIA"
+    ]
+  },
+  {
+    "id": "jj",
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "team": "MIN",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 422,
+    "pprRank": 394,
+    "statLine": "2022: 128/1,809/8 · 2024: still a 100-catch pace",
+    "teams": [
+      "MIN"
+    ]
+  },
+  {
+    "id": "jallen",
+    "name": "Josh Allen",
+    "position": "QB",
+    "team": "BUF",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 423,
+    "pprRank": 442,
+    "statLine": "Dual-threat: 200+ rush yards seasons stacked on 30+ TDs",
+    "teams": [
+      "BUF"
+    ]
+  },
+  {
+    "id": "ljackson",
+    "name": "Lamar Jackson",
+    "position": "QB",
+    "team": "BAL",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 424,
+    "pprRank": 443,
+    "statLine": "2019 MVP: 36 pass TD · 1,206 rush yards",
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "burrow",
+    "name": "Joe Burrow",
+    "position": "QB",
+    "team": "CIN",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 425,
+    "pprRank": 444,
+    "statLine": "2021: 34 TD passes · Super Bowl LVI run",
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "herbert",
+    "name": "Justin Herbert",
+    "position": "QB",
+    "team": "LAC",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 426,
+    "pprRank": 445,
+    "statLine": "2020: 31 TD passes as a rookie",
+    "teams": [
+      "LAC"
+    ]
+  },
+  {
+    "id": "luck",
+    "name": "Andrew Luck",
+    "position": "QB",
+    "team": "IND",
+    "careerStart": 2012,
+    "careerEnd": 2018,
+    "standardRank": 427,
+    "pprRank": 446,
+    "statLine": "2014: 40 TD passes · 2018 comeback player",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "vick",
+    "name": "Michael Vick",
+    "position": "QB",
+    "team": "ATL",
+    "careerStart": 2001,
+    "careerEnd": 2015,
+    "standardRank": 428,
+    "pprRank": 447,
+    "statLine": "2006: 1,039 rush yards at QB · 103.1 passer rating",
+    "teams": [
+      "ATL",
+      "PHI",
+      "NYJ",
+      "PIT"
+    ]
+  },
+  {
+    "id": "dak",
+    "name": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL",
+    "careerStart": 2016,
+    "careerEnd": 2026,
+    "standardRank": 429,
+    "pprRank": 448,
+    "statLine": "2016 Offensive Rookie of the Year · 4,500-yard seasons",
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "hurts",
+    "name": "Jalen Hurts",
+    "position": "QB",
+    "team": "PHI",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 430,
+    "pprRank": 449,
+    "statLine": "2022: 13 rush TDs · Super Bowl LIX champ",
+    "teams": [
+      "PHI"
+    ]
+  },
+  {
+    "id": "graham",
+    "name": "Jimmy Graham",
+    "position": "TE",
+    "team": "NO",
+    "careerStart": 2010,
+    "careerEnd": 2023,
+    "standardRank": 431,
+    "pprRank": 423,
+    "statLine": "2013: 86/1,215/16",
+    "teams": [
+      "NO",
+      "SEA",
+      "CHI"
+    ]
+  },
+  {
+    "id": "kittle",
+    "name": "George Kittle",
+    "position": "TE",
+    "team": "SF",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 432,
+    "pprRank": 424,
+    "statLine": "2018: 1,377 yards · 8.5 yards after catch engine",
+    "teams": [
+      "SF"
+    ]
+  },
+  {
+    "id": "casper",
+    "name": "Dave Casper",
+    "position": "TE",
+    "team": "OAK",
+    "careerStart": 1974,
+    "careerEnd": 1984,
+    "standardRank": 433,
+    "pprRank": 428,
+    "statLine": "The Ghost: Super Bowl XI · 17.6 YPC seasons",
+    "teams": [
+      "OAK",
+      "HOU",
+      "MIN"
+    ]
+  },
+  {
+    "id": "christensen",
+    "name": "Todd Christensen",
+    "position": "TE",
+    "team": "RAI",
+    "careerStart": 1979,
+    "careerEnd": 1988,
+    "standardRank": 434,
+    "pprRank": 429,
+    "statLine": "1983: 92/1,247/12 in the Raiders' run",
+    "teams": [
+      "RAI"
+    ]
+  },
+  {
+    "id": "olson",
+    "name": "Greg Olsen",
+    "position": "TE",
+    "team": "CAR",
+    "careerStart": 2007,
+    "careerEnd": 2020,
+    "standardRank": 435,
+    "pprRank": 425,
+    "statLine": "2014: 84/1,008/6 · 3 straight 1,000-yard TE years",
+    "teams": [
+      "CAR",
+      "CHI",
+      "SEA"
+    ]
+  },
+  {
+    "id": "ertz",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "PHI",
+    "careerStart": 2013,
+    "careerEnd": 2026,
+    "standardRank": 436,
+    "pprRank": 426,
+    "statLine": "Super Bowl LII: game-winning TD catch · 2018: 116 catches",
+    "teams": [
+      "PHI",
+      "ARI",
+      "WAS"
+    ]
+  },
+  {
+    "id": "clark",
+    "name": "Dallas Clark",
+    "position": "TE",
+    "team": "IND",
+    "careerStart": 2003,
+    "careerEnd": 2013,
+    "standardRank": 437,
+    "pprRank": 427,
+    "statLine": "2009: 100/1,106/10 with Manning",
+    "teams": [
+      "IND",
+      "TB",
+      "BAL"
+    ]
+  },
+  {
+    "id": "saquon",
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "team": "NYG",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 438,
+    "pprRank": 430,
+    "statLine": "2018: 2,028 yards from scrimmage as a rookie",
+    "teams": [
+      "NYG",
+      "PHI"
+    ]
+  },
+  {
+    "id": "kamara",
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "team": "NO",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 439,
+    "pprRank": 383,
+    "statLine": "2017: 81/826/5 receiving as a rookie RB",
+    "teams": [
+      "NO"
+    ]
+  },
+  {
+    "id": "cook",
+    "name": "Dalvin Cook",
+    "position": "RB",
+    "team": "MIN",
+    "careerStart": 2017,
+    "careerEnd": 2024,
+    "standardRank": 440,
+    "pprRank": 431,
+    "statLine": "2020: 1,557 rush yards · 7.3 YPC burst seasons",
+    "teams": [
+      "MIN",
+      "NYJ",
+      "BAL"
+    ]
+  },
+  {
+    "id": "jtaylor",
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "team": "IND",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 441,
+    "pprRank": 432,
+    "statLine": "2021: 1,811 rush yards · 18 rush TDs",
+    "teams": [
+      "IND"
+    ]
+  },
+  {
+    "id": "jacobs",
+    "name": "Josh Jacobs",
+    "position": "RB",
+    "team": "LV",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "standardRank": 442,
+    "pprRank": 433,
+    "statLine": "2022: 1,653 rush yards · rushing title",
+    "teams": [
+      "LV",
+      "GB"
+    ]
+  },
+  {
+    "id": "mixon",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "CIN",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 443,
+    "pprRank": 434,
+    "statLine": "2021: 1,205 rush · 13 rush TDs",
+    "teams": [
+      "CIN",
+      "HOU"
+    ]
+  },
+  {
+    "id": "ekeler",
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "team": "LAC",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 444,
+    "pprRank": 385,
+    "statLine": "2022: 107 catches · 18 receiving TDs from the backfield",
+    "teams": [
+      "LAC",
+      "WAS"
+    ]
+  },
+  {
+    "id": "chase",
+    "name": "Ja'Marr Chase",
+    "position": "WR",
+    "team": "CIN",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 445,
+    "pprRank": 435,
+    "statLine": "2021: 81/1,455/13 as a rookie",
+    "teams": [
+      "CIN"
+    ]
+  },
+  {
+    "id": "lamb",
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "team": "DAL",
+    "careerStart": 2020,
+    "careerEnd": 2026,
+    "standardRank": 446,
+    "pprRank": 436,
+    "statLine": "2023: 135/1,749/12",
+    "teams": [
+      "DAL"
+    ]
+  },
+  {
+    "id": "diggs",
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "team": "BUF",
+    "careerStart": 2015,
+    "careerEnd": 2026,
+    "standardRank": 447,
+    "pprRank": 437,
+    "statLine": "2020: 127/1,535/8 in Buffalo",
+    "teams": [
+      "BUF",
+      "MIN",
+      "HOU"
+    ]
+  },
+  {
+    "id": "ajbrown",
+    "name": "A.J. Brown",
+    "position": "WR",
+    "team": "PHI",
+    "careerStart": 2019,
+    "careerEnd": 2026,
+    "standardRank": 448,
+    "pprRank": 438,
+    "statLine": "2023: 1,456 yards · 14 TDs in Philadelphia",
+    "teams": [
+      "PHI",
+      "TEN"
+    ]
+  },
+  {
+    "id": "kupp",
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "team": "LAR",
+    "careerStart": 2017,
+    "careerEnd": 2026,
+    "standardRank": 449,
+    "pprRank": 439,
+    "statLine": "2021: 145/1,947/16 · Offensive Player of the Year",
+    "teams": [
+      "LAR",
+      "SEA"
+    ]
+  },
+  {
+    "id": "andrews",
+    "name": "Mark Andrews",
+    "position": "TE",
+    "team": "BAL",
+    "careerStart": 2018,
+    "careerEnd": 2026,
+    "standardRank": 450,
+    "pprRank": 440,
+    "statLine": "2021: 107/1,361/9",
+    "teams": [
+      "BAL"
+    ]
+  },
+  {
+    "id": "waller",
+    "name": "Darren Waller",
+    "position": "TE",
+    "team": "LV",
+    "careerStart": 2018,
+    "careerEnd": 2024,
+    "standardRank": 451,
+    "pprRank": 441,
+    "statLine": "2020: 107/1,196/9 in Las Vegas",
+    "teams": [
+      "LV",
+      "NYG"
+    ]
+  },
+  {
+    "id": "bijan",
+    "name": "Bijan Robinson",
+    "position": "RB",
+    "team": "ATL",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 452,
+    "pprRank": 450,
+    "statLine": "2023: 1,163 yards from scrimmage as a rookie",
+    "teams": [
+      "ATL"
+    ]
+  },
+  {
+    "id": "gibbs",
+    "name": "Jahmyr Gibbs",
+    "position": "RB",
+    "team": "DET",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 453,
+    "pprRank": 451,
+    "statLine": "2024: 1,412 rush yards · 16 rush TDs",
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "puka",
+    "name": "Puka Nacua",
+    "position": "WR",
+    "team": "LAR",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 454,
+    "pprRank": 452,
+    "statLine": "2023: 105/1,486/6 as a rookie",
+    "teams": [
+      "LAR"
+    ]
+  },
+  {
+    "id": "stbrown",
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "DET",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 455,
+    "pprRank": 453,
+    "statLine": "2023: 119/1,515/10 · slot machine",
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "nico",
+    "name": "Nico Collins",
+    "position": "WR",
+    "team": "HOU",
+    "careerStart": 2021,
+    "careerEnd": 2026,
+    "standardRank": 456,
+    "pprRank": 454,
+    "statLine": "2024: 1,000+ yards · 12 TDs breakout",
+    "teams": [
+      "HOU"
+    ]
+  },
+  {
+    "id": "laporta",
+    "name": "Sam LaPorta",
+    "position": "TE",
+    "team": "DET",
+    "careerStart": 2023,
+    "careerEnd": 2026,
+    "standardRank": 457,
+    "pprRank": 455,
+    "statLine": "2023: 86/889/10 as a rookie TE",
+    "teams": [
+      "DET"
+    ]
+  },
+  {
+    "id": "mcbride",
+    "name": "Trey McBride",
+    "position": "TE",
+    "team": "ARI",
+    "careerStart": 2022,
+    "careerEnd": 2026,
+    "standardRank": 458,
+    "pprRank": 456,
+    "statLine": "2024: 111/1,146/2 slot-TE volume",
+    "teams": [
+      "ARI"
+    ]
+  }
+]

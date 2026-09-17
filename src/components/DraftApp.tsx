@@ -16,6 +16,7 @@ import {
 import { NFL_FRANCHISES, countFranchisePool, countFranchiseIdp, franchiseName, playerTeamCodes } from "@/lib/franchises";
 
 import { summarizeDraft, POS_ORDER, POS_COLORS, barWidth } from "@/lib/recap";
+import { UnlockButton } from "@/components/UnlockButton";
 
 const DECADES = [1960, 1970, 1980, 1990, 2000, 2010, 2020] as const;
 const POSITIONS: Position[] = ["QB", "RB", "WR", "TE", "DL", "LB", "DB", "DST"];
